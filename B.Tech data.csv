@@ -1,0 +1,421 @@
+,College Names,Degress,Course,City,State,Rating for 5,Rank,Total Rank,Year of Rank,Fees in Ruppes,Average Package,Highest Package,Approved
+0,IIT Bombay  Indian Institute of Technology,BE/B.Tech,B.Tech Computer Science and Engineering, Mumbai, Maharashtra,4.4,1,500,2025,"₹ 8,82,500","23,50,000","1,00,00,000","AICTE, UGC "
+1,IIT Delhi  Indian Institute of Technology,BE/B.Tech,B.Tech Computer Science and Engineering, New Delhi, Delhi NCR,4.3,2,500,2025,"₹ 8,62,550","25,82,000","2,00,00,000",
+2,IIT Madras  Indian Institute of Technology,BE/B.Tech,B.Tech Computer Science and Engineering, Chennai, Tamil Nadu,4.3,3,500,2025,"₹ 9,38,668","21,48,000","4,30,00,000",AICTE 
+3,IIT Kanpur  Indian Institute of Technology,BE/B.Tech,B.Tech Computer Science and Engineering, Kanpur, Uttar Pradesh,4.4,4,500,2025,"₹ 9,18,880","17,20,000","2,50,00,000",UGC 
+4,IIT Kharagpur  Indian Institute of Technology,BE/B.Tech,B.Tech Mechanical Engineering, Kharagpur, West Bengal,4.4,5,500,2025,"₹ 8,96,300","24,30,000","2,44,00,000","AICTE, UGC, NBA "
+5,IIT Roorkee  Indian Institute of Technology,BE/B.Tech,B.Tech Computer Science and Engineering, Roorkee, Uttarakhand,4.3,6,500,2025,"₹ 8,87,400","18,34,000","1,50,00,000","AICTE, UGC "
+6,IIT Guwahati  Indian Institute of Technology,BE/B.Tech,B.Tech Artificial Intelligence & Data Science, Guwahati, Assam,4.3,7,500,2025,"₹ 9,03,700","25,21,000","1,25,00,000","AICTE, UGC "
+7,BITS Pilani,BE/B.Tech,BE Computer Science, Pilani, Rajasthan,4.4,8,500,2025,"₹ 25,29,200","22,00,000","1,46,68,000",UGC 
+8,IIT Hyderabad  Indian Institute of Technology,BE/B.Tech,B.Tech Artificial Intelligence, Hyderabad, Telangana,4.3,9,500,2025,"₹ 11,94,312","20,81,000","66,13,000","AICTE, UGC "
+9,IIT BHU  Indian Institute of Technology,BE/B.Tech,B.Tech Computer Science and Engineering, Varanasi, Uttar Pradesh,4.3,10,500,2025,"₹ 8,35,510","29,00,000","1,67,00,000",UGC 
+10,NIT Trichy,BE/B.Tech,B.Tech Computer Science and Engineering, Tiruchirappalli, Tamil Nadu,4.1,11,500,2025,"₹ 6,63,750","16,43,000","64,00,000","AICTE, UGC, MHRD "
+11,National Institute of Technology,BE/B.Tech,B.Tech Computer Science and Engineering, Surathkal, Karnataka,4.2,12,500,2025,"₹ 6,58,320","24,56,000","55,00,000","AICTE, UGC, NBA "
+12,ISM Dhanbad  Indian Institute of Technology,BE/B.Tech,B.Tech Computer Science and Engineering, Dhanbad, Jharkhand,4.3,13,500,2025,"₹ 12,01,200","20,61,000","66,14,000","AICTE, UGC "
+13,NIT Warangal,BE/B.Tech,B.Tech Computer Science and Engineering, Warangal, Telangana,4.1,14,500,2025,"₹ 5,45,000","13,30,000","64,63,000","AICTE, UGC, NBA, MHRD "
+14,International Institute of Information Technology,BE/B.Tech,B.Tech Computer Science and Engineering, Hyderabad, Telangana,4.1,15,500,2025,"₹ 18,00,000","33,96,000","1,28,00,000","AICTE, BCI, UGC "
+15,Indian Institute of Science,BE/B.Tech,B.Tech Mathematics And Computing, Bangalore, Karnataka,4.4,16,500,2025,"₹ 8,38,200","28,00,000","85,00,000",UGC 
+16,IIT Mandi Indian Institute of Technology,BE/B.Tech,B.Tech Computer Science and Engineering, Mandi, Himachal Pradesh,4.1,17,500,2025,"₹ 8,25,000","25,23,000","65,00,000",AICTE 
+17,IIT Patna  Indian Institute of Technology,BE/B.Tech,B.Tech Computer Science and Engineering, Patna, Bihar,4.2,18,500,2025,"₹ 9,99,250","24,56,000","59,00,000",UGC 
+18,IIT Gandhinagar  Indian Institute of Technology,BE/B.Tech,B.Tech Computer Science and Engineering, Gandhinagar, Gujarat,4.3,19,500,2025,"₹ 11,85,454","15,35,000","62,00,000","AICTE, UGC "
+19,MNNIT Allahabad  Motilal Nehru National Institute of Technology,BE/B.Tech,B.Tech Computer Science and Engineering, Allahabad, Uttar Pradesh,4.2,20,500,2025,"₹ 6,57,000","20,43,000","72,00,000",AICTE 
+20,IIT Jodhpur  Indian Institute of Technology,BE/B.Tech,B.Tech Artificial Intelligence & Data Science, Jodhpur, Rajasthan,4.4,21,500,2025,"₹ 9,74,800","17,56,000","53,00,000",AICTE 
+21,Netaji Subhas University of Technology,BE/B.Tech,B.Tech Computer Engineering, New Delhi, Delhi NCR,3.7,22,500,2025,"₹ 11,29,000","16,78,000","65,00,000","AICTE, UGC, NBA "
+22,Indian Institute of Information Technology,BE/B.Tech,B.Tech Information Technology, Allahabad, Uttar Pradesh,4.3,23,500,2025,"₹ 9,65,640","33,00,000","1,21,00,000","AICTE, UGC "
+23,National Institute of Technology,BE/B.Tech,B.Tech Computer Science and Engineering, Calicut, Kerala,4,24,500,2025,"₹ 6,63,000","13,39,000","56,59,000","AICTE, UGC "
+24,International Institute of Information Technology,BE/B.Tech,B.Tech + M.Tech Computer Science & Engineering, Bangalore, Karnataka,4.2,25,500,2025,"₹ 33,44,000","21,80,000","65,00,000","AICTE, UGC "
+25,Birla Institute of Technology and Science,BE/B.Tech,BE Computer Science, South Goa, Goa,4.3,26,500,2025,"₹ 25,29,200","17,00,000","20,75,099",UGC 
+26,Birla Institute of Technology and Science,BE/B.Tech,BE Computer Science, Hyderabad, Telangana,4.5,27,500,2025,"₹ 25,29,200","20,77,914","1,00,00,000","AICTE, UGC "
+27,National Institute of Technology,BE/B.Tech,B.Tech Computer Science and Engineering, Rourkela, Odisha,4.1,28,500,2025,"₹ 6,40,000","13,81,000","62,44,000","AICTE, UGC, MHRD "
+28,IIT Bhubaneswar  Indian Institute of Technology,BE/B.Tech,B.Tech Computer Science and Engineering, Bhubaneswar, Odisha,4.1,29,500,2025,"₹ 9,06,760","16,98,000","67,60,000",AICTE 
+29,Delhi Technological University,BE/B.Tech,B.Tech Computer Science and Engineering, New Delhi, Delhi NCR,4.2,30,500,2025,"₹ 11,09,800","15,45,000","85,30,000","UGC, NBA "
+30,IIT Jodhpur  Indian Institute of Technology,BE/B.Tech,B.Tech Artificial Intelligence & Data Science, Jodhpur, Rajasthan,4.4,21,500,2025,"₹ 9,74,800","17,56,000","53,00,000",AICTE 
+31,Netaji Subhas University of Technology,BE/B.Tech,B.Tech Computer Engineering, New Delhi, Delhi NCR,3.7,22,500,2025,"₹ 11,29,000","16,78,000","65,00,000","AICTE, UGC, NBA "
+32,Indian Institute of Information Technology,BE/B.Tech,B.Tech Information Technology, Allahabad, Uttar Pradesh,4.3,23,500,2025,"₹ 9,65,640","33,00,000","1,21,00,000","AICTE, UGC "
+33,National Institute of Technology,BE/B.Tech,B.Tech Computer Science and Engineering, Calicut, Kerala,4,24,500,2025,"₹ 6,63,000","13,39,000","56,59,000","AICTE, UGC "
+34,International Institute of Information Technology,BE/B.Tech,B.Tech + M.Tech Computer Science & Engineering, Bangalore, Karnataka,4.2,25,500,2025,"₹ 33,44,000","21,80,000","65,00,000","AICTE, UGC "
+35,Birla Institute of Technology and Science,BE/B.Tech,BE Computer Science, South Goa, Goa,4.3,26,500,2025,"₹ 25,29,200","17,00,000","20,75,099",UGC 
+36,Birla Institute of Technology and Science,BE/B.Tech,BE Computer Science, Hyderabad, Telangana,4.5,27,500,2025,"₹ 25,29,200","20,77,914","1,00,00,000","AICTE, UGC "
+37,National Institute of Technology,BE/B.Tech,B.Tech Computer Science and Engineering, Rourkela, Odisha,4.1,28,500,2025,"₹ 6,40,000","13,81,000","62,44,000","AICTE, UGC, MHRD "
+38,IIT Bhubaneswar  Indian Institute of Technology,BE/B.Tech,B.Tech Computer Science and Engineering, Bhubaneswar, Odisha,4.1,29,500,2025,"₹ 9,06,760","16,98,000","67,60,000",AICTE 
+39,Delhi Technological University,BE/B.Tech,B.Tech Computer Science and Engineering, New Delhi, Delhi NCR,4.2,30,500,2025,"₹ 11,09,800","15,45,000","85,30,000","UGC, NBA "
+40,Indraprastha Institute of Information Technology,BE/B.Tech,B.Tech Computer Science and Biosciences, New Delhi, Delhi NCR,4.2,31,500,2025,"₹ 19,67,000","20,69,000","51,31,000","AICTE, NBA "
+41,Visvesvaraya National Institute of Technology,BE/B.Tech,B.Tech Chemical Engineering, Nagpur, Maharashtra,4.1,32,500,2025,"₹ 8,18,600","10,70,000","64,00,000",UGC 
+42,Indian Institute of Information Technology,BE/B.Tech,B.Tech Computer Science, Lucknow, Uttar Pradesh,4.2,33,500,2025,"₹ 10,23,300","33,71,000","1,45,00,000",MHRD 
+43,IIT Indore  Indian Institute of Technology,BE/B.Tech,B.Tech Space Science and Engineering, Indore, Madhya Pradesh,4.2,34,500,2025,"₹ 11,09,400","23,91,000","1,37,00,000",AICTE 
+44,IIT Ropar  Indian Institute of Technology,BE/B.Tech,B.Tech Computer Science and Engineering, Ropar, Punjab,4.3,35,500,2025,"₹ 11,45,750","23,91,393","65,75,613",MHRD 
+45,IIT Tirupati  Indian Institute of Technology,BE/B.Tech,B.Tech Computer Science and Engineering, Tirupati, Andhra Pradesh,4.2,36,500,2025,"₹ 8,81,680","15,54,000","41,64,000","AICTE, UGC "
+46,Atal Bihari Vajpayee Indian Institute of Information Technology and Management,BE/B.Tech,B.Tech Computer Science and Engineering, Gwalior, Madhya Pradesh,3.9,37,500,2025,"₹ 7,98,250","27,23,000","67,50,000",
+47,IIT Goa  Indian Institute of Technology,BE/B.Tech,B.Tech Computer Science and Engineering, Ponda, Goa,4.2,38,500,2025,"₹ 8,52,568","18,85,000","60,00,000",UGC 
+48,National Institute of Technology,BE/B.Tech,B.Tech Computer Science and Engineering, New Delhi, Delhi NCR,3.8,39,500,2025,"₹ 7,11,700","16,81,000","58,50,000","AICTE, UGC "
+49,Malaviya National Institute of Technology,BE/B.Tech,B.Tech Computer Science and Engineering, Jaipur, Rajasthan,4.2,40,500,2025,"₹ 6,76,348","13,20,000","64,00,000","AICTE, NBA, MHRD "
+50,Sardar Vallabhbhai National Institute of Technology,BE/B.Tech,B.Tech Artificial Intelligence, Surat, Gujarat,4,41,500,2025,"₹ 6,77,000","8,12,000","62,00,000",UGC 
+51,IIT Dharwad  Indian Institute of Technology,BE/B.Tech,B.Tech Computer Science and Engineering, Dharwad, Karnataka,4.3,42,500,2025,"₹ 8,00,000","12,63,000","52,00,000",UGC 
+52,National Institute of Technology,BE/B.Tech,B.Tech Computer Science and Engineering, Jamshedpur, Jharkhand,4,43,500,2025,"₹ 6,28,000","12,63,000","82,00,000","AICTE, MHRD "
+53,National Institute of Technology,BE/B.Tech,B.Tech Computer Science and Engineering, Durgapur, West Bengal,4.3,44,500,2025,"₹ 7,45,300","12,61,000","80,00,000","AICTE, UGC "
+54,Jadavpur University,BE/B.Tech,BE Computer Science And Engineering, Kolkata, West Bengal,4.3,45,500,2025,"₹ 1,19,620",,"40,00,000","NCTE, AICTE, COA, UGC, NBA "
+55,College of Engineering,BE/B.Tech,BE Computer Science And Engineering, Chennai, Tamil Nadu,4.2,46,500,2025,"₹ 4,59,600",,,AICTE 
+56,IIT Jammu  Indian Institute of Technology,BE/B.Tech,B.Tech Computer Science and Engineering, Jammu, Jammu and Kashmir,4.2,48,500,2025,"₹ 8,29,860","15,50,000","53,00,000","AICTE, MHRD "
+57,IIT Palakkad  Indian Institute of Technology,BE/B.Tech,B.Tech Computer Science and Engineering, Palakkad, Kerala,4.3,49,500,2025,"₹ 9,05,960","13,89,000","47,12,000",MHRD 
+58,Vellore Institute of Technology,BE/B.Tech,B.Tech Computer Science and Engineering, Vellore, Tamil Nadu,4.1,50,500,2025,"₹ 7,83,000","9,90,000","1,00,00,000","AICTE, UGC, MHRD, ACCA "
+59,Punjab Engineering College University of Technology,BE/B.Tech,B.Tech Computer Science and Engineering, Chandigarh, Chandigarh,4,51,500,2025,"₹ 7,71,000","13,61,000","61,03,000","AICTE, UGC "
+60,Maulana Azad National Institute of Technology,BE/B.Tech,B.Tech Computer Science and Engineering, Bhopal, Madhya Pradesh,4,52,500,2025,"₹ 5,80,800","14,82,000","56,00,000","AICTE, NBA "
+61,IIT Bhilai  Indian Institute of Technology,BE/B.Tech,B.Tech Data Science and Artificial Intelligence, Bhilai, Chhattisgarh,4.2,53,500,2025,"₹ 9,33,000","12,68,000","49,00,000","UGC, MHRD "
+62,Dr BR Ambedkar National Institute of Technology,BE/B.Tech,B.Tech Computer Science and Engineering, Jalandhar, Punjab,3.9,54,500,2025,"₹ 6,56,000","10,80,000","52,00,000","AICTE, UGC "
+63,National Institute of Technology,BE/B.Tech,B.Tech Computer Science and Engineering, Patna, Bihar,4,55,500,2025,"₹ 6,11,900","9,90,000","41,37,000","AICTE, UGC, MHRD "
+64,National Institute of Technology,BE/B.Tech,B.Tech Artificial Intelligence & Machine Learning, Kurukshetra, Haryana,4.1,57,500,2025,"₹ 6,77,500","13,21,000","63,12,000","AICTE, NBA "
+65,Indian Institute of Information Technology Design and Manufacturing,BE/B.Tech,B.Tech Computer Science and Engineering, Jabalpur, Madhya Pradesh,4,58,500,2025,"₹ 6,49,500","21,00,000","87,54,000",UGC 
+66,National Institute of Technology   Uttarakhand,BE/B.Tech,B.Tech Computer Science and Engineering, Srinagar Garhwal, Uttarakhand,3.6,59,500,2025,"₹ 8,70,907","8,03,000","12,50,000",
+67,Indian Institute of Space Science and Technology,BE/B.Tech,B.Tech Aerospace Engineering, Thiruvananthapuram, Kerala,4.1,60,500,2025,"₹ 5,97,150","10,00,000","28,00,000","AICTE, UGC "
+68,National Institute of Technology,BE/B.Tech,B.Tech Biotechnology, Raipur, Chhattisgarh,3.9,61,500,2025,"₹ 5,87,760","11,07,000","60,00,000","AICTE, NBA "
+69,National Institute of Technology,BE/B.Tech,B.Tech Computer Science and Engineering, South Goa, Goa,3.7,62,500,2025,"₹ 5,60,000","9,00,000","35,00,000","AICTE, UGC "
+70,National Institute of Technology,BE/B.Tech,B.Tech Computer Science and Engineering, Pondicherry, Puducherry,3.7,63,500,2025,"₹ 5,94,450","5,00,000","23,00,000","AICTE, UGC "
+71,Thapar Institute of Engineering and Technology,BE/B.Tech,BE Computer Science And Engineering, Patiala, Punjab,3.9,64,500,2025,"₹ 25,30,000","11,38,000","1,23,00,000","AICTE, UGC, NBA "
+72,National Institute of Technology,BE/B.Tech,B.Tech Civil Engineering, Srinagar, Jammu and Kashmir,3.7,65,500,2025,"₹ 6,02,500","12,80,000","36,50,000",AICTE 
+73,Indian Institute of Information Technology,BE/B.Tech,B.Tech Computer Science and Engineering, Pune, Maharashtra,3.9,66,500,2025,"₹ 12,00,000",,"45,00,000","AICTE, UGC "
+74,Birla Institute of Technology,BE/B.Tech,B.Tech Computer Science and Engineering, Ranchi, Jharkhand,3.7,67,500,2025,"₹ 16,77,000","11,77,000","1,45,00,000","AICTE, PCI, UGC, NBA "
+75,Indian Institute of Information Technology,BE/B.Tech,B.Tech Computer Science and Engineering, Tiruchirappalli, Tamil Nadu,4,68,500,2025,"₹ 10,66,800","18,03,500","46,67,000",AICTE 
+76,Rajiv Gandhi Institute of Petroleum Technology,BE/B.Tech,B.Tech Petroleum Engineering, Amethi, Uttar Pradesh,4.2,69,500,2025,"₹ 9,79,000","10,67,000","24,00,000",AICTE 
+77,Indian Institute of Engineering Science and Technology   Shibpur,BE/B.Tech,B.Tech Computer Science and Engineering, Howrah, West Bengal,4.1,70,500,2025,"₹ 6,37,400","8,39,000","56,00,000",AICTE 
+78,National Institute of Technology,BE/B.Tech,B.Tech + M.Tech Computational Mathematics, Agartala, Tripura,4,71,500,2025,,"14,71,000","52,00,000",AICTE 
+79,NIT Silchar,BE/B.Tech,B.Tech Electronics & Communication Engineering, Silchar, Assam,4,72,500,2025,"₹ 5,92,960","8,00,000","54,00,000","AICTE, UGC, MHRD "
+80,Indian Institute of Information Technology,BE/B.Tech,B.Tech Computer Science and Engineering, Bhopal, Madhya Pradesh,3.6,73,500,2025,"₹ 10,13,670","16,77,000","85,00,000",MHRD 
+81,National Institute of Technology,BE/B.Tech,B.Tech Computer Science and Engineering, Tadepalligudem, Andhra Pradesh,3.8,74,500,2025,"₹ 5,44,900","8,13,000","44,10,000",MHRD 
+82,Indian Institute of Information Technology Sri City,BE/B.Tech,B.Tech Computer Science and Engineering, Sri City, Andhra Pradesh,3.8,75,500,2025,"₹ 18,03,000","19,24,000","1,20,00,000",MHRD 
+83,Indian Institute of Information Technology,BE/B.Tech,B.Tech Computer Science and Engineering, Ranchi, Jharkhand,4,76,500,2025,"₹ 12,13,000","12,36,000","54,00,000","UGC, MHRD "
+84,Indian Institute of Information Technology,BE/B.Tech,B.Tech Computer Science and Engineering, Kottayam, Kerala,4,77,500,2025,"₹ 17,92,700","11,91,000","50,00,000","UGC, MHRD "
+85,National Institute of Technology,BE/B.Tech,B.Tech Computer Science and Engineering, Hamirpur, Himachal Pradesh,4,78,500,2025,"₹ 6,81,800","10,58,000","58,00,000","AICTE, MHRD "
+86,Indian Institute of Information Technology,BE/B.Tech,B.Tech Computer Science and Engineering, Bhagalpur, Bihar,4,79,500,2025,"₹ 14,73,852","10,35,000","83,00,000",AICTE 
+87,Indian Institute of Information Technology Design & Manufacturing,BE/B.Tech,B.Tech + M.Tech Artificial Intelligence & Robotics, Chennai, Tamil Nadu,4.1,80,500,2025,"₹ 9,56,000","10,80,000","32,00,000",AICTE 
+88,Indian Institute of Information Technology,BE/B.Tech,B.Tech Computer Science and Engineering, Raichur, Karnataka,4.1,81,500,2025,"₹ 12,81,552","18,00,000","45,00,000",MHRD 
+89,Indian Institute of Information Technology,BE/B.Tech,B.Tech Computer Science and Engineering, Kalyani, West Bengal,3.5,82,500,2025,"₹ 10,62,100","10,72,000","44,00,000",MHRD 
+90,Dhirubhai Ambani Institute of Information and Communication Technology,BE/B.Tech,B.Tech Information And Communication Technology, Gandhinagar, Gujarat,4.3,83,500,2025,"₹ 14,73,000",,"53,00,000",AIU 
+91,International Institute of Information Technology   Naya Raipur,BE/B.Tech,B.Tech Computer Science and Engineering, Raipur, Chhattisgarh,4.1,84,500,2025,"₹ 6,53,250","18,90,000","1,20,00,000",AICTE 
+92,R V College of Engineering,BE/B.Tech,BE Computer Science And Engineering, Bangalore, Karnataka,3.9,85,500,2025,"₹ 13,32,840","12,52,400","67,00,000","AICTE, NBA "
+93,Indian Institute of Information Technology,BE/B.Tech,B.Tech Computer Science and Engineering, Surat, Gujarat,4,86,500,2025,"₹ 7,95,000","16,40,000","1,20,00,000",AICTE 
+94,Indian Institute of Information Technology,BE/B.Tech,B.Tech Computer Science and Engineering, Nagpur, Maharashtra,3.8,87,500,2025,"₹ 9,32,200","14,70,000","60,00,000","AICTE, MHRD "
+95,Indian Institute of Information Technology,BE/B.Tech,B.Tech Computer Science and Engineering, Una, Himachal Pradesh,3.9,88,500,2025,"₹ 10,85,000","11,02,000","30,00,000",MHRD 
+96,Indian Institute of Information Technology Vadodara,BE/B.Tech,B.Tech Computer Science and Engineering, Gandhinagar, Gujarat,4.1,89,500,2025,"₹ 10,87,080","12,00,000","56,30,000",MHRD 
+97,The LNM Institute of Information Technology,BE/B.Tech,B.Tech Computer Science and Engineering, Jaipur, Rajasthan,3.9,90,500,2025,"₹ 20,95,600","13,36,000","1,24,00,000",AICTE 
+98,JNTUH College of Engineering,BE/B.Tech,B.Tech Computer Science and Engineering, Hyderabad, Telangana,4,91,500,2025,"₹ 2,10,000","9,40,000","30,00,000","AICTE, UGC, NBA "
+99,Veermata Jijabai Technological Institute,BE/B.Tech,B.Tech Computer Engineering, Mumbai, Maharashtra,4,92,500,2025,"₹ 3,37,101","16,35,000","72,30,000","AICTE, UGC, NBA "
+100,International Institute of Information Technology,BE/B.Tech,B.Tech Computer Science and Engineering, Bhubaneswar, Odisha,3.8,93,500,2025,"₹ 9,96,200","8,81,000","56,20,000","AICTE, UGC "
+101,College of Engineering,BE/B.Tech,B.Tech Computer Science And Information Technology, Pune, Maharashtra,4.2,94,500,2025,"₹ 6,05,576","11,62,000","52,57,000","AICTE, UGC, NBA "
+102,Netaji Subhas University of Technology   East Campus,BE/B.Tech,B.Tech Computer Science and Engineering - Internet of Things, New Delhi, Delhi NCR,3.4,95,500,2025,"₹ 9,60,000","18,06,000","1,02,00,000",AICTE 
+103,BMS College of Engineering,BE/B.Tech,BE Computer Science And Engineering, Bangalore, Karnataka,4.1,96,500,2025,"₹ 60,00,000","11,40,000","51,50,000","AICTE, NBA "
+104,Indian Institute of Information Technology,BE/B.Tech,B.Tech Computer Science and Engineering, Agartala, Tripura,4,97,500,2025,"₹ 8,67,650","18,00,000","60,00,000",MHRD 
+105,Indian Institute of Information Technology,BE/B.Tech,B.Tech Computer Science and Engineering, Sonepat, Haryana,3.9,98,500,2025,,"12,90,000","62,00,000",
+106,Indian Institute of Information Technology,BE/B.Tech,B.Tech Computer Science and Engineering, Kota, Rajasthan,3.9,99,500,2025,"₹ 9,14,825","13,09,000","65,00,000",
+107,Jawaharlal Nehru University,BE/B.Tech,B.Tech Computer Science and Engineering, New Delhi, Delhi NCR,4.2,100,500,2025,"₹ 5,51,036","11,00,000","33,00,000",
+108,Maulana Abul Kalam Azad University of Technology,BE/B.Tech,B.Tech Computer Science and Engineering, Nadia, West Bengal,3.8,101,500,2025,"₹ 2,40,300","5,50,000","7,00,000","DCI, AICTE, PCI, BCI, UGC "
+109,Indian Institute of Information Technology,BE/B.Tech,B.Tech Computer Science and Engineering, Guwahati, Assam,3.9,102,500,2025,"₹ 12,30,000","16,75,000","71,00,000",
+110,Zakir Hussain College of Engineering and Technology,BE/B.Tech,B.Tech Computer Engineering, Aligarh, Uttar Pradesh,4,103,500,2025,"₹ 1,02,000",,,"AICTE, NBA "
+111,Jaypee Institute of Information Technology University,BE/B.Tech,B.Tech Computer Science and Engineering, Noida, Uttar Pradesh,4,104,500,2025,"₹ 16,79,000",,"94,25,000","AICTE, UGC, NBA "
+112,Indian Institute of Information Technology,BE/B.Tech,B.Tech Computer Science and Engineering, Dharwad, Karnataka,3.7,105,500,2025,"₹ 15,49,500","12,00,000","78,12,000",MHRD 
+113,Birsa Institute of Technology   Sindri,BE/B.Tech,B.Tech Computer Science and Engineering, Dhanbad, Jharkhand,4,106,500,2025,"₹ 70,478","7,57,000","16,50,000","AICTE, NBA "
+114,National Institute of Technology   Meghalaya,BE/B.Tech,B.Tech Computer Science and Engineering, Shillong, Meghalaya,3.9,108,500,2025,"₹ 5,96,700","9,70,000","46,30,000",AICTE 
+115,National Institute of Technology,BE/B.Tech,B.Tech Computer Science and Engineering, Imphal, Manipur,3.9,109,500,2025,"₹ 5,78,700",,"47,00,000",AICTE 
+116,Indian Institute of Information Technology Design and Manufacturing,BE/B.Tech,B.Tech Artificial Intelligence & Data Science, Kurnool, Andhra Pradesh,3.8,110,500,2025,"₹ 7,80,900","7,64,000","22,00,000",MHRD 
+117,National Institute of Technology,BE/B.Tech,B.Tech Mechanical Engineering, South Sikkim, Sikkim,3.9,111,500,2025,"₹ 5,82,043","8,18,000","31,45,000","AICTE, UGC "
+118,SRM University,BE/B.Tech,B.Tech Computer Science and Engineering, Amaravathi, Andhra Pradesh,4.2,112,500,2025,"₹ 16,15,000","9,59,000","46,37,000","UGC, AIU "
+119,Netaji Subhas University of Technology   West Campus,BE/B.Tech,B.Tech Geo-Informatics Engineering, New Delhi, Delhi NCR,3.4,113,500,2025,"₹ 11,29,000",,,AICTE 
+120,Kalinga Institute of Industrial Technology,BE/B.Tech,B.Tech Computer Science and Engineering, Bhubaneswar, Odisha,4.2,114,500,2025,"₹ 18,51,000","8,50,000","63,00,000","DCI, AICTE, INC, MCI, BCI "
+121,Indira Gandhi Delhi Technical University For Women,BE/B.Tech,B.Tech Computer Science and Engineering, New Delhi, Delhi NCR,4.1,115,500,2025,"₹ 7,07,000","25,15,000","56,00,000","AICTE, UGC "
+122,Cochin University of Science and Technology,BE/B.Tech,B.Tech Computer Science and Engineering, Ernakulam, Kerala,4,116,500,2025,"₹ 2,60,400","5,40,000","20,00,000","AICTE, UGC "
+123,SSN College of Engineering,BE/B.Tech,BE Computer Science And Engineering, Chennai, Tamil Nadu,4.1,117,500,2025,"₹ 5,15,500",,"89,00,000","AICTE, UGC, NBA "
+124,National Institute of Technology,BE/B.Tech,B.Tech Computer Science and Engineering, Dimapur, Nagaland,3.7,118,500,2025,"₹ 5,96,700","4,22,000","13,95,000","AICTE, UGC "
+125,Pune Institute of Computer Technology,BE/B.Tech,B.Tech Computer Engineering, Pune, Maharashtra,4,119,500,2025,"₹ 4,82,000","10,11,000","33,57,000","AICTE, NBA "
+126,National Institute of Technology,BE/B.Tech,B.Tech Computer Science and Engineering, Aizawl, Mizoram,3.4,120,500,2025,"₹ 6,07,700","8,40,000","35,00,000",AICTE 
+127,Indian Institute of Information Technology,BE/B.Tech,B.Tech Computer Science and Engineering, Imphal, Manipur,3.8,121,500,2025,"₹ 11,92,200","8,70,000","40,00,000",
+128,National Institute of Technology,BE/B.Tech,B.Tech Electronics & Communication Engineering, Papum Pare, Arunachal Pradesh,3.6,122,500,2025,"₹ 5,62,600","7,37,000","58,00,000","AICTE, UGC "
+129,St Joseph's College of Engineering and Technology,BE/B.Tech,BE Electrical And Electronics Engineering, Thanjavur, Tamil Nadu,3.9,123,500,2025,"₹ 3,48,000",,,AICTE 
+130,Institute of Chemical Technology,BE/B.Tech,B.Tech Chemical Engineering, Mumbai, Maharashtra,4.3,124,500,2025,"₹ 3,56,400","6,00,000","9,00,000","UGC, NBA, MHRD "
+131,University School of Information,BE/B.Tech,B.Tech + M.Tech Computer Science & Engineering, New Delhi, Delhi NCR,3.9,125,500,2025,"₹ 12,96,105","7,20,000","41,20,000",UGC 
+132,Birla Institute of Technology Extension Centre,BE/B.Tech,B.Tech Computer Science and Engineering, Deoghar, Jharkhand,4,126,500,2025,"₹ 16,59,000","6,53,000","51,00,000",AICTE 
+133,P.S.G College of Technology,BE/B.Tech,B.Tech Biotechnology, Coimbatore, Tamil Nadu,4.2,127,500,2025,"₹ 2,20,000",,,AICTE 
+134,Roorkee Institute of Technology,BE/B.Tech,B.Tech Computer Science and Engineering, Roorkee, Uttarakhand,4.3,128,500,2025,"₹ 5,99,600","8,00,000","18,00,000",AICTE 
+135,Siksha 'O' Anusandhan University,BE/B.Tech,B.Tech Computer Science and Engineering, Bhubaneswar, Odisha,4.3,129,500,2025,"₹ 11,90,000","5,00,000","43,00,000","AICTE, MCI, ICAR, UGC, NBA "
+136,Sardar Patel Institute of Technology,BE/B.Tech,B.Tech Computer Engineering, Mumbai, Maharashtra,4,130,500,2025,"₹ 8,40,000","15,14,000","52,00,000","AICTE, NBA "
+137,Institute of Technology,BE/B.Tech,B.Tech Computer Science and Engineering, Ahmedabad, Gujarat,4.2,131,500,2025,"₹ 11,40,700","8,30,000","52,25,000","UGC, NBA "
+138,Indian Institute of Petroleum and Energy,BE/B.Tech,B.Tech Mechanical Engineering, Visakhapatnam, Andhra Pradesh,4,134,500,2025,"₹ 6,46,600",,"20,00,000","AICTE, UGC "
+139,Birla Institute of Technology,BE/B.Tech,B.Tech Computer Science and Engineering, Patna, Bihar,3.7,135,500,2025,"₹ 16,59,000","13,47,000","36,54,000","AICTE, UGC "
+140,Madan Mohan Malaviya University of Technology,BE/B.Tech,B.Tech Computer Science and Engineering, Gorakhpur, Uttar Pradesh,3.9,136,500,2025,"₹ 10,52,800","7,00,000","59,00,000","AICTE, UGC, NBA "
+141,University of Calcutta,BE/B.Tech,B.Tech Computer Science and Engineering, Kolkata, West Bengal,3.7,137,500,2025,"₹ 38,075",,,UGC 
+142,SASTRA University,BE/B.Tech,B.Tech Computer Science and Engineering, Thanjavur, Tamil Nadu,3.8,139,500,2025,"₹ 7,00,000",,"27,00,000","NCTE, AICTE, UGC, DEB "
+143,PES University,BE/B.Tech,B.Tech Computer Science and Engineering, Bangalore, Karnataka,4,140,500,2025,"₹ 22,10,000","10,10,000","65,00,000","AICTE, UGC "
+144,Department of Engineering,BE/B.Tech,B.Tech Computer Science and Engineering, Kanchipuram, Tamil Nadu,3.7,141,500,2025,"₹ 20,23,000","6,66,000","65,00,000","NCTE, AICTE, UGC "
+145,Ramaiah Institute of Technology,BE/B.Tech,BE Computer Science And Engineering, Bangalore, Karnataka,4,143,500,2025,"₹ 12,04,400","7,66,000","50,00,000","AICTE, NBA "
+146,Lovely Professional University,BE/B.Tech,B.Tech Computer Science and Engineering, Jalandhar, Punjab,4.2,144,500,2025,"₹ 13,20,000",,"2,50,00,000","NCTE, COA, PCI, BCI, ICAR "
+147,Dr. Hari singh Gour University,BE/B.Tech,B.Tech Computer Science and Engineering, Sagar, Madhya Pradesh,3.6,145,500,2025,"₹ 5,08,740","1,80,000","4,25,000","AICTE, UGC "
+148,Shri Govindram Seksaria Institute of Technology and Science,BE/B.Tech,B.Tech Computer Science and Engineering, Indore, Madhya Pradesh,3.7,146,500,2025,"₹ 7,17,300",,"24,00,000","AICTE, PCI, UGC, NBA "
+149,Shri Mata Vaishno Devi University,BE/B.Tech,B.Tech Computer Science and Engineering, Katra, Jammu and Kashmir,3.9,147,500,2025,"₹ 6,57,710","5,05,000","9,50,000",UGC 
+150,Assam University,BE/B.Tech,B.Tech Computer Science and Engineering, Silchar, Assam,3.6,148,500,2025,"₹ 2,70,550",,"9,00,000","NCTE, AICTE, PCI, BCI, UGC "
+151,Dwarkadas J Sanghvi College of Engineering,BE/B.Tech,BE Computer Engineering, Mumbai, Maharashtra,4.1,149,500,2025,"₹ 8,25,713","11,28,000","56,00,000","AICTE, NBA "
+152,K L University,BE/B.Tech,B.Tech Computer Science and Engineering, Guntur, Andhra Pradesh,4.2,150,500,2025,"₹ 12,16,000","11,00,000","75,00,000","AICTE, COA, PCI, UGC "
+153,Chitkara Institute of Engineering and Technology,BE/B.Tech,BE Computer Science And Engineering, Chandigarh, Chandigarh,3.9,152,500,2025,"₹ 12,70,000",,"1,11,00,000",AICTE 
+154,National Institute Of Advanced Manufacturing Technology (NIAMT),BE/B.Tech,B.Tech Metallurgical And Materials Engineering, Ranchi, Jharkhand,4.1,154,500,2025,"₹ 2,87,000","7,40,000","15,00,000",AICTE 
+155,GB Pant Delhi Skill and Entrepreneurship University,BE/B.Tech,B.Tech Electronics & Communication Engineering, New Delhi, Delhi NCR,3.3,155,500,2025,"₹ 5,85,000","6,47,000","25,00,000",AICTE 
+156,University College of Engineering,BE/B.Tech,BE Artificial Intelligence & Machine Learning, Hyderabad, Telangana,4.2,156,500,2025,"₹ 4,89,770","10,00,000","45,00,000",AICTE 
+157,Goa University,BE/B.Tech,BE Mining Engineering, North Goa, Goa,3.6,157,500,2025,"₹ 3,07,500",,,"UGC, MHRD, AIU "
+158,Jamia Millia Islamia University,BE/B.Tech,B.Tech Computer Engineering, New Delhi, Delhi NCR,4.1,158,500,2025,"₹ 77,200","7,00,000","22,00,000","AICTE, UGC "
+159,University Institute of Engineering and Technology,BE/B.Tech,BE Computer Science And Engineering, Chandigarh, Chandigarh,3.8,159,500,2025,"₹ 5,22,940","9,11,000","25,00,000","AICTE, UGC "
+160,Central Institute of Technology (CIT),BE/B.Tech,B.Tech Computer Science and Engineering, Kokrajhar, Assam,3.6,160,500,2025,"₹ 2,27,500","3,79,000","6,50,000","AICTE, UGC, MHRD "
+161,North Eastern Regional Institute of Science and Technology,BE/B.Tech,B.Tech Computer Science and Engineering, Itanagar, Arunachal Pradesh,3.8,161,500,2025,"₹ 69,500","6,00,000","9,72,000","AICTE, UGC, NBA, MHRD "
+162,Chitkara University,BE/B.Tech,BE Computer Science And Engineering, Solan, Himachal Pradesh,4.2,162,500,2025,"₹ 7,20,000",,,"PCI, UGC, AIU "
+163,JNTUK University College of Engineering,BE/B.Tech,B.Tech Computer Science and Engineering, East Godavari, Andhra Pradesh,4,163,500,2025,"₹ 1,80,000",,"67,00,000",
+164,Galgotias University,BE/B.Tech,B.Tech Computer Science and Engineering, Greater Noida, Uttar Pradesh,3.8,165,500,2025,"₹ 6,99,000","5,40,000","60,00,000","NCTE, AICTE, COA, PCI, INC "
+165,Institute of Engineering and Technology,BE/B.Tech,B.Tech Computer Science and Business Systems, Indore, Madhya Pradesh,3.8,167,500,2025,"₹ 4,11,800","7,00,000","1,13,00,000",AICTE 
+166,Sant Longowal Institute of Engineering and Technology,BE/B.Tech,BE Computer Science And Engineering, Sangrur, Punjab,3.8,168,500,2025,"₹ 2,86,000","11,07,000","27,00,000","AICTE, MHRD "
+167,Deenbandhu Chhotu Ram University of Science and Technology,BE/B.Tech,B.Tech Computer Science and Engineering, Sonepat, Haryana,3.6,169,500,2025,"₹ 2,10,220",,"6,00,000","AICTE, UGC, NBA "
+168,LJ University,BE/B.Tech,BE Computer Engineering, Ahmedabad, Gujarat,4,171,500,2025,"₹ 4,12,000","3,50,000","15,00,000","AICTE, BCI, UGC "
+169,Cluster Innovation Centre,BE/B.Tech,B.Tech Information Technology & Mathematical Innovations, New Delhi, Delhi NCR,4.1,172,500,2025,"₹ 41,000",,,
+170,Kalyani Government Engineering College,BE/B.Tech,B.Tech Computer Science and Engineering, Nadia, West Bengal,4,173,500,2025,"₹ 52,727","5,75,000","86,00,000",AICTE 
+171,Dr. S. S. Bhatnagar University Institute of Chemical Engineering & Technology,BE/B.Tech,BE + MBA Chemical Engineering, Chandigarh, Chandigarh,3.8,174,500,2025,"₹ 5,97,525","4,20,000",,"AICTE, UGC "
+172,Central University of Rajasthan,BE/B.Tech,B.Tech Computer Science and Engineering, Ajmer, Rajasthan,3.6,175,500,2025,"₹ 6,16,200","5,00,000","6,50,000",AICTE 
+173,Sri Jayachamarajendra College of Engineering,BE/B.Tech,BE Computer Science And Engineering, Mysore, Karnataka,4.1,176,500,2025,"₹ 4,86,440",,"56,00,000","AICTE, NBA "
+174,Maharaja Agrasen Institute of Technology,BE/B.Tech,B.Tech Computer Science and Engineering, New Delhi, Delhi NCR,3.8,177,500,2025,"₹ 7,20,000",,"1,30,00,000","AICTE, NBA "
+175,Maharaja Surajmal Institute of Technology,BE/B.Tech,B.Tech Computer Science and Engineering, New Delhi, Delhi NCR,3.7,178,500,2025,"₹ 6,00,400","7,10,000","50,00,000","AICTE, NBA "
+176,Maharishi Markandeshwar,BE/B.Tech,B.Tech Computer Science and Engineering, Ambala, Haryana,4,179,500,2025,"₹ 7,85,193","6,00,000","42,00,000","DCI, AICTE, PCI, INC, MCI "
+177,Vallurupalli Nageswara Rao Vignana Jyothi Institute of Engineering and Technology,BE/B.Tech,B.Tech Computer Science and Engineering, Hyderabad, Telangana,4.2,180,500,2025,"₹ 5,40,000","7,17,000","54,00,000","AICTE, UGC, NBA "
+178,P.U. Swami Sarvanand Giri Regional Centre,BE/B.Tech,BE Computer Science And Engineering, Hoshiarpur, Punjab,3.5,181,500,2025,"₹ 4,87,420",,,
+179,VIT Bhopal University,BE/B.Tech,B.Tech Computer Science and Engineering, Bhopal, Madhya Pradesh,3.9,182,500,2025,"₹ 7,95,000","11,00,000","70,00,000","AICTE, COA, UGC, MHRD "
+180,Walchand College of Engineering,BE/B.Tech,B.Tech Computer Science and Engineering, Sangli, Maharashtra,4.1,183,500,2025,"₹ 3,34,419","9,21,000","60,00,000","AICTE, NBA "
+181,Saveetha Institute of Medical And Technical Sciences,BE/B.Tech,B.Tech Artificial Intelligence & Machine Learning, Chennai, Tamil Nadu,4.2,184,500,2025,"₹ 18,40,000","9,00,000","15,00,000","AICTE, UGC "
+182,University Institute of Engineering and Technology,BE/B.Tech,B.Tech Computer Science and Engineering, Kurukshetra, Haryana,3.5,185,500,2025,"₹ 4,20,000","4,70,000","11,40,000",UGC 
+183,Central University Of Jammu,BE/B.Tech,B.Tech Computer Science and Engineering, Jammu, Jammu and Kashmir,4,186,500,2025,"₹ 5,47,790","3,28,000","7,00,000","NCTE, AICTE, UGC "
+184,Vishwakarma Institute of Technology,BE/B.Tech,B.Tech Computer Engineering, Pune, Maharashtra,4,188,500,2025,"₹ 8,44,757","7,50,000","45,00,000","AICTE, BCI, NBA, MHRD "
+185,Swami Keshvanand Institute of Technology,BE/B.Tech,B.Tech Computer Science and Engineering, Jaipur, Rajasthan,3.8,189,500,2025,"₹ 4,67,916","5,00,000","29,00,000","AICTE, NBA "
+186,JSS Science and Technology University,BE/B.Tech,BE Electronics & Communication Engineering, Mysore, Karnataka,4.2,190,500,2025,"₹ 12,04,400",,"60,00,000","AICTE, UGC, NBA "
+187,Gayatri Vidya Parishad College of Engineering,BE/B.Tech,B.Tech Computer Science and Engineering, Visakhapatnam, Andhra Pradesh,3.9,191,500,2025,"₹ 4,20,000","8,00,000","24,00,000",AICTE 
+188,Centurion University of Technology and Management,BE/B.Tech,B.Tech Computer Science and Engineering, Bhubaneswar, Odisha,3.8,192,500,2025,"₹ 7,87,500","4,65,000","16,00,000","AICTE, PCI, UGC "
+189,University of Kalyani,BE/B.Tech,B.Tech Computer Science and Engineering, Kalyani, West Bengal,3.8,193,500,2025,"₹ 2,14,390",,,"AICTE, UGC, AIU "
+190,C. V. Raman Global University,BE/B.Tech,B.Tech Computer Science and Engineering, Bhubaneswar, Odisha,3.9,194,500,2025,"₹ 11,60,000",,"16,50,000","AICTE, UGC, NBA "
+191,Army Institute of Technology,BE/B.Tech,B.Tech Computer Engineering, Pune, Maharashtra,4.3,195,500,2025,"₹ 13,69,660","10,45,000","59,35,000",NBA 
+192,University Visvesvaraya College of Engineering,BE/B.Tech,BE Computer Science And Engineering, Bangalore, Karnataka,3.8,196,500,2025,"₹ 1,98,330",,"28,50,000",AICTE 
+193,J.C. Bose University Of Science And Technology,BE/B.Tech,B.Tech Computer Engineering, Faridabad, Haryana,3.7,198,500,2025,"₹ 4,12,782","6,54,000","47,00,000","AICTE, UGC, NBA "
+194,Indian Institute of Handloom Technology,BE/B.Tech,B.Tech Handloom & Textile Technology, Salem, Tamil Nadu,4,199,500,2025,"₹ 85,980",,"3,60,000",AICTE 
+195,Jawaharlal Nehru Technological University,BE/B.Tech,B.Tech Computer Science and Engineering, Kakinada, Andhra Pradesh,3.8,200,500,2025,"₹ 3,50,000",,,UGC 
+196,GIET University,BE/B.Tech,B.Tech Computer Science and Engineering, Gunupur, Odisha,3.7,201,500,2025,"₹ 7,92,000","4,87,000","19,50,000","AICTE, INC, ICAR, UGC, NBA "
+197,Dayananda Sagar College of Engineering,BE/B.Tech,BE Computer Science And Engineering, Bangalore, Karnataka,4,202,500,2025,"₹ 12,04,400",,"56,00,000","AICTE, UGC, NBA "
+198,Dharmsinh Desai University,BE/B.Tech,B.Tech Computer Engineering, Nadiad, Gujarat,3.5,205,500,2025,"₹ 7,40,000","4,00,000","21,00,000","AICTE, UGC, NBA "
+199,GB Pant Delhi Skill and Entrepreneurship University,BE/B.Tech,B.Tech Computer Science and Engineering, New Delhi, Delhi NCR,,206,500,2025,"₹ 5,84,750","2,50,000","11,50,000",UGC 
+200,Institute of Engineering and Technology,BE/B.Tech,B.Tech Computer Science and Engineering, Lucknow, Uttar Pradesh,3.8,207,500,2025,"₹ 4,04,100","8,20,000","49,00,000","AICTE, UGC "
+201,Odisha University of Technology and Research,BE/B.Tech,B.Tech Computer Science and Engineering, Bhubaneswar, Odisha,3.9,208,500,2025,"₹ 3,24,880","6,70,000","42,00,000","UGC, NBA "
+202,Government College of Engineering and Ceramic Technology,BE/B.Tech,B.Tech Computer Science and Engineering, Kolkata, West Bengal,4.1,209,500,2025,"₹ 17,801","3,00,000","7,50,000","AICTE, NBA "
+203,Banasthali Vidyapith,BE/B.Tech,B.Tech Computer Science and Engineering, Jaipur, Rajasthan,4.2,210,500,2025,"₹ 7,68,500","3,60,000","5,20,000",UGC 
+204,JSS Academy of Technical Education,BE/B.Tech,BE Computer Science And Engineering, Bangalore, Karnataka,3.8,211,500,2025,"₹ 5,09,740","10,00,000","45,00,000","AICTE, NBA "
+205,PES Institute of Technology and Management,BE/B.Tech,B.Tech Computer Science and Engineering, Bangalore, Karnataka,3.7,212,500,2025,"₹ 4,17,060",,"12,00,000","AICTE, NBA "
+206,MKSSS's Cummins College of Engineering for Women,BE/B.Tech,B.Tech Computer Engineering, Pune, Maharashtra,4.1,213,500,2025,"₹ 7,07,109","17,00,000","36,00,000","AICTE, NBA "
+207,Gurugram University,BE/B.Tech,B.Tech Artificial Intelligence, Gurgaon, Haryana,4,214,500,2025,"₹ 4,00,000","3,50,000","18,00,000","AICTE, BCI, UGC "
+208,Arni University,BE/B.Tech,B.Tech Computer Science and Engineering, Kangra, Himachal Pradesh,4.1,215,500,2025,"₹ 2,80,000",,,"AICTE, PCI, BCI, UGC, AIU "
+209,NorthEastern Hill University,BE/B.Tech,B.Tech Information Technology, Shillong, Meghalaya,3.7,217,500,2025,"₹ 2,00,520","4,00,000","7,00,000",UGC 
+210,Delhi Skill and Entrepreneurship University (DSEU),BE/B.Tech,B.Tech Computer Science and Engineering, New Delhi, Delhi NCR,3.7,218,500,2025,"₹ 7,45,800","2,40,000","5,00,000",
+211,University College of Engineering,BE/B.Tech,B.Tech Electronics & Communication Engineering, Vizianagaram, Andhra Pradesh,3.7,219,500,2025,"₹ 1,80,000",,,"AICTE, UGC, MHRD "
+212,Veer Surendra Sai University of Technology,BE/B.Tech,B.Tech Computer Science and Engineering, Burla, Odisha,4,220,500,2025,"₹ 1,88,490","6,17,000","24,00,000","AICTE, COA, UGC "
+213,Institute of Engineering and Management,BE/B.Tech,B.Tech Computer Science and Engineering, Kolkata, West Bengal,4,221,500,2025,"₹ 8,65,000","7,50,000","32,00,000","AICTE, NBA "
+214,Faculty of Technology,BE/B.Tech,B.Tech Computer Engineering, Nadiad, Gujarat,3.5,223,500,2025,"₹ 7,40,000",,"21,00,000","AICTE, UGC, NBA "
+215,KLE Technological University,BE/B.Tech,BE Computer Science And Engineering, Hubli, Karnataka,4.2,224,500,2025,"₹ 12,04,400","5,30,000","46,38,000","AICTE, UGC "
+216,Guru Nanak Dev University,BE/B.Tech,B.Tech Computer Science and Engineering, Amritsar, Punjab,3.8,226,500,2025,"₹ 3,88,240","6,37,000","44,00,000",UGC 
+217,University Institute of Engineering and Technology,BE/B.Tech,B.Tech Computer Science and Engineering, Rohtak, Haryana,3.7,227,500,2025,"₹ 3,48,368",,,AICTE 
+218,Kamla Nehru Institute of Technology,BE/B.Tech,B.Tech Computer Science and Engineering, Sultanpur, Uttar Pradesh,4,228,500,2025,"₹ 2,95,400","8,30,000","45,00,000","AICTE, UGC, NBA "
+219,Indian Institute of Food Processing Technology,BE/B.Tech,B.Tech Food Technology, Thanjavur, Tamil Nadu,4.1,229,500,2025,"₹ 6,24,500",,,AICTE 
+220,Central University of Haryana,BE/B.Tech,B.Tech Computer Science and Engineering, Mahendragarh, Haryana,3.7,230,500,2025,"₹ 2,06,234",,,UGC 
+221,Sri Venkateswara University College of Engineering,BE/B.Tech,B.Tech Computer Science and Engineering, Tirupati, Andhra Pradesh,4,233,500,2025,"₹ 1,68,480","6,23,000","18,00,000","AICTE, NBA "
+222,DRIEMS University,BE/B.Tech,B.Tech Computer Science and Engineering, Cuttack, Odisha,4,234,500,2025,"₹ 6,36,000","4,00,000","16,00,000","UGC, NBA "
+223,Heritage Institute of Technology,BE/B.Tech,B.Tech Computer Science and Engineering, Kolkata, West Bengal,4.2,235,500,2025,"₹ 5,89,200","4,62,100","1,13,00,000","AICTE, NBA "
+224,Arka Jain University,BE/B.Tech,B.Tech Computer Science and Engineering, Jamshedpur, Jharkhand,4,236,500,2025,"₹ 6,12,000","3,20,000","23,00,000","AICTE, PCI, INC, BCI, UGC "
+225,Madras Institute of Technology,BE/B.Tech,BE Aeronautical Engineering, Chennai, Tamil Nadu,4.1,237,500,2025,"₹ 1,62,400","6,93,000","36,50,000","AICTE, NBA "
+226,Jalpaiguri Government Engineering College,BE/B.Tech,B.Tech Computer Science and Engineering, Jalpaiguri, West Bengal,4,238,500,2025,"₹ 61,973","10,50,000","54,00,000","AICTE, UGC, NBA "
+227,UNIRAJ University of Rajasthan,BE/B.Tech,B.Tech + M.Tech, Jaipur, Rajasthan,3.8,240,500,2025,"₹ 4,84,000",,,UGC 
+228,L.D. College of Engineering,BE/B.Tech,BE Computer Engineering, Ahmedabad, Gujarat,4.2,241,500,2025,"₹ 8,190","4,50,000","19,00,000","AICTE, NBA "
+229,Bangalore Institute of Technology,BE/B.Tech,BE Computer Science And Engineering, Bangalore, Karnataka,3.8,242,500,2025,"₹ 11,44,352","10,00,000","58,00,000","AICTE, NBA "
+230,Pimpri Chinchwad College of Engineering,BE/B.Tech,B.Tech Computer Engineering, Pune, Maharashtra,4,243,500,2025,"₹ 21,18,984","9,54,000","14,00,000","AICTE, NBA "
+231,Shri Vishnu Engineering College for Women,BE/B.Tech,B.Tech Computer Science and Engineering, Bhimavaram, Andhra Pradesh,4.3,244,500,2025,"₹ 4,20,000","9,54,000","46,00,000","AICTE, NBA "
+232,Indira Gandhi Institute of Technology,BE/B.Tech,B.Tech Computer Science and Engineering, Dhenkanal, Odisha,4,245,500,2025,"₹ 1,21,600","3,00,000","11,88,000",AICTE 
+233,Government College of Engineering and Leather Technology,BE/B.Tech,B.Tech Computer Science and Engineering, Saltlake, West Bengal,3.7,246,500,2025,"₹ 61,650","5,70,000","14,00,000",AICTE 
+234,Amity University,BE/B.Tech,B.Tech Computer Science and Engineering, Jaipur, Rajasthan,4.1,247,500,2025,"₹ 13,36,000","4,84,000","52,76,000","AICTE, RCI, COA, BCI, UGC "
+235,Pandit Deendayal Energy University,BE/B.Tech,B.Tech Computer Engineering, Gandhinagar, Gujarat,4.2,248,500,2025,"₹ 11,66,000","7,50,000","42,00,000","UGC, NBA "
+236,Bundelkhand Institute of Engineering & Technology,BE/B.Tech,B.Tech Computer Science and Engineering, Jhansi, Uttar Pradesh,3.6,249,500,2025,"₹ 2,67,600","5,35,000","17,00,000","AICTE, UGC, NBA "
+237,NIE Institute of Technology,BE/B.Tech,BE Computer Science And Engineering, Mysore, Karnataka,4,250,500,2025,"₹ 1,39,970","9,75,000","56,00,000","AICTE, UGC, NBA "
+238,Sardar Patel College of Engineering,BE/B.Tech,B.Tech Civil Engineering, Mumbai, Maharashtra,4,251,500,2025,"₹ 3,39,336","6,00,000","27,00,000","AICTE, UGC, NBA "
+239,Institute of Infrastructure Technology Research and Management,BE/B.Tech,B.Tech Computer Engineering, Ahmedabad, Gujarat,3.9,252,500,2025,"₹ 4,82,000",,,UGC 
+240,CGC University,BE/B.Tech,B.Tech Computer Science and Engineering, Mohali, Punjab,4.1,253,500,2025,"₹ 8,40,000","10,00,000","1,00,00,000",NBA 
+241,National Power Training Institute,BE/B.Tech,B.Tech Power Engineering, Durgapur, West Bengal,3.6,254,500,2025,"₹ 2,68,800","3,10,000","4,50,000",AICTE 
+242,Vishnu Institute of Technology,BE/B.Tech,B.Tech Computer Science and Engineering, Bhimavaram, Andhra Pradesh,4.1,256,500,2025,"₹ 4,12,000","4,28,000","44,00,000","AICTE, UGC, NBA "
+243,Kalasalingam Academy of Research and Education,BE/B.Tech,B.Tech Computer Science and Engineering, Krishnankovil, Tamil Nadu,3.5,257,500,2025,"₹ 7,98,000","4,50,000","50,00,000","BCI, UGC, NBA "
+244,The National Institute of Engineering,BE/B.Tech,BE Computer Science And Engineering, Mysore, Karnataka,4,258,500,2025,"₹ 2,76,800","10,50,000","70,00,000","AICTE, UGC "
+245,University of Engineering and Management,BE/B.Tech,B.Tech Computer Science and Engineering, Kolkata, West Bengal,3.9,259,500,2025,"₹ 8,72,500","8,48,000","72,00,000","AICTE, BCI, UGC, AIU "
+246,Sir Padampat Singhania University,BE/B.Tech,B.Tech Biotechnology, Udaipur, Rajasthan,3.8,260,500,2025,"₹ 8,15,000","6,00,000","13,70,000","UGC, AIU "
+247,BMS Institute of Technology and Management,BE/B.Tech,BE Computer Science And Engineering, Bangalore, Karnataka,4,261,500,2025,"₹ 30,00,000","8,07,000","46,40,000","AICTE, UGC, NBA "
+248,Vishwakarma Institute of Information Technology,BE/B.Tech,B.Tech Computer Engineering, Pune, Maharashtra,4,262,500,2025,"₹ 8,24,000","7,70,000","33,00,000",NBA 
+249,University College of Engineering and Technology,BE/B.Tech,B.Tech Computer Science and Engineering, Hazaribagh, Jharkhand,3.5,263,500,2025,"₹ 2,54,000",,,"AICTE, UGC "
+250,Vishwakarma Government Engineering College,BE/B.Tech,BE Computer Engineering, Ahmedabad, Gujarat,4,264,500,2025,"₹ 6,000",,"23,00,000",AICTE 
+251,RVR and JC College of Engineering,BE/B.Tech,B.Tech Computer Science and Engineering, Guntur, Andhra Pradesh,4.1,265,500,2025,"₹ 4,20,000","4,70,000","46,38,000",AICTE 
+252,Government College of Engineering & Textile Technology,BE/B.Tech,B.Tech Apparel Production Management, Serampore, West Bengal,3.8,267,500,2025,"₹ 53,400","4,20,000","12,50,000",AICTE 
+253,Poornima College of Engineering,BE/B.Tech,B.Tech Computer Engineering, Jaipur, Rajasthan,3.9,268,500,2025,"₹ 5,41,460","4,61,000","10,00,000","AICTE, NBA "
+254,Vivekanand Education Society Institute of Technology,BE/B.Tech,BE Computer Engineering, Mumbai, Maharashtra,4,269,500,2025,"₹ 6,04,000",,"14,00,000","AICTE, NBA "
+255,Faculty of Technology and Engineering,BE/B.Tech,BE Computer Science And Engineering, Vadodara, Gujarat,4.1,270,500,2025,"₹ 1,05,000","7,00,000","11,00,000",AICTE 
+256,Anil Neerukonda Institute of Technology & Sciences,BE/B.Tech,B.Tech Computer Science and Engineering, Visakhapatnam, Andhra Pradesh,3.9,271,500,2025,"₹ 3,36,400","4,44,000","12,00,000","AICTE, UGC, NBA "
+257,JSS Academy of Technical Education,BE/B.Tech,B.Tech Computer Science and Engineering, Noida, Uttar Pradesh,3.7,272,500,2025,"₹ 4,94,400","6,50,000","57,00,000","AICTE, PCI, NBA "
+258,Bidhan Chandra Krishi Viswavidyalaya,BE/B.Tech,B.Tech Agricultural Engineering, Mohanpur, West Bengal,4,273,500,2025,"₹ 1,17,100",,,ICAR 
+259,Ajay Kumar Garg Engineering College,BE/B.Tech,B.Tech Computer Science and Engineering, Ghaziabad, Uttar Pradesh,3.8,274,500,2025,"₹ 4,75,924","5,41,000","30,00,000","AICTE, NBA "
+260,Haldia Institute of Technology,BE/B.Tech,B.Tech Computer Science and Engineering, Haldia, West Bengal,3.9,275,500,2025,"₹ 5,82,700","5,00,000","45,00,000","AICTE, UGC, NBA "
+261,Jairupaa College of Engineering,BE/B.Tech,BE Electrical And Electronics Engineering, Tiruppur, Tamil Nadu,2.6,276,500,2025,"₹ 3,48,000",,,NCTE 
+262,Siddaganga Institute of Technology,BE/B.Tech,BE Computer Science And Engineering, Tumkur, Karnataka,3.9,277,500,2025,"₹ 11,76,510","9,00,000","32,88,000","AICTE, NBA "
+263,KJ Somaiya Institute of Engineering and Information Technology,BE/B.Tech,BE Artificial Intelligence and Data Science, Mumbai, Maharashtra,4,278,500,2025,"₹ 8,27,600","6,00,000","17,50,000",AICTE 
+264,Swami Vivekanand Institute of Engineering & Technology,BE/B.Tech,B.Tech Computer Science and Engineering, Chandigarh, Chandigarh,4,279,500,2025,"₹ 4,00,000","6,50,000","60,00,000","AICTE, PCI "
+265,Chandubhai S Patel Institute of Technology,BE/B.Tech,B.Tech Computer Engineering, Anand, Gujarat,4.1,280,500,2025,"₹ 5,12,000",,,AICTE 
+266,National Institute of Electronics and Information Technology,BE/B.Tech,B.Tech Electronics Engineering, Aurangabad, Maharashtra,3.8,281,500,2025,"₹ 4,30,000",,,AICTE 
+267,Rajiv Gandhi Proudyogiki Vishwavidyalaya,BE/B.Tech,B.Tech Computer Science and Engineering, Bhopal, Madhya Pradesh,3.6,251,300,2022,"₹ 1,31,940","3,50,000","18,00,000",
+268,Thadomal Shahani Engineering College,BE/B.Tech,BE Computer Engineering, Mumbai, Maharashtra,3.7,283,500,2025,"₹ 8,19,397",,"20,20,000","AICTE, NBA "
+269,Manipal Institute of Technology Bengaluru,BE/B.Tech,B.Tech Computer Science and Engineering, Bangalore, Karnataka,4.2,284,500,2025,"₹ 24,30,000","10,49,000","57,00,000","AICTE, MHRD "
+270,Techno Main Salt Lake,BE/B.Tech,B.Tech Computer Science and Engineering, Kolkata, West Bengal,3.9,285,500,2025,"₹ 4,02,000","7,50,000","29,00,000","AICTE, COA, PCI, INC, BCI "
+271,Chennai Institute of Technology,BE/B.Tech,BE Computer Science And Engineering, Chennai, Tamil Nadu,4.2,239,500,2025,"₹ 2,20,000","7,00,000","60,00,000","AICTE, NBA "
+272,New Prince Shri Bhavani College of Engineering & Technology,BE/B.Tech,B.Tech Information Technology, Chennai, Tamil Nadu,3.2,287,500,2025,"₹ 3,48,000",,,AICTE 
+273,GITAM School of Technology,BE/B.Tech,B.Tech Computer Science and Engineering, Hyderabad, Telangana,4.1,288,500,2025,"₹ 15,76,000","6,86,000","1,40,00,000","AICTE, UGC "
+274,Pune Vidhyarthi Griha's College of Engineering and Technology,BE/B.Tech,BE Artificial Intelligence and Data Science, Pune, Maharashtra,3.8,291,500,2025,"₹ 6,02,800","4,95,000","30,00,000","AICTE, NBA "
+275,Nitte Meenakshi Institute of Technology   (Deemed to be University),BE/B.Tech,B.Tech Computer Science and Engineering, Bangalore, Karnataka,3.9,292,500,2025,"₹ 14,00,000",,"59,00,000","AICTE, NBA "
+276,University Institute of Technology,BE/B.Tech,BE Computer Science And Engineering, Bardhaman, West Bengal,3.3,293,500,2025,"₹ 3,64,800",,,"AICTE, UGC, NBA "
+277,Vel Tech Rangarajan Dr. Sagunthala R and D Institute of Science and Technology,BE/B.Tech,B.Tech Computer Science and Engineering, Chennai, Tamil Nadu,3.7,294,500,2025,"₹ 15,25,000",,"44,00,000","BCI, NBA "
+278,RV University,BE/B.Tech,B.Tech {Hons.} Computer Science Engineering, Bangalore, Karnataka,3.8,295,500,2025,"₹ 22,00,000",,,"BCI, UGC "
+279,Ramkrishna Mahato Government Engineering College,BE/B.Tech,B.Tech Computer Science and Engineering, Purulia, West Bengal,3.9,296,500,2025,"₹ 48,000","3,50,000","6,00,000",AICTE 
+280,RV Institute of Technology and Management,BE/B.Tech,BE Computer Science And Engineering, Bangalore, Karnataka,4,297,500,2025,"₹ 32,60,000","12,44,000","33,00,000",AICTE 
+281,New Horizon College of Engineering,BE/B.Tech,BE Computer Science And Engineering, Bangalore, Karnataka,4.2,298,500,2025,"₹ 10,00,000","8,00,000","29,00,000","AICTE, UGC, NBA "
+282,RNS Institute of Technology,BE/B.Tech,BE Computer Science And Engineering, Bangalore, Karnataka,3.9,300,500,2025,"₹ 30,00,000",,"50,00,000","AICTE, NBA "
+283,Ghani Khan Choudhury Institute Of Engineering and Technology,BE/B.Tech,B.Tech Artificial Intelligence & Machine Learning, Malda, West Bengal,3.9,301,500,2025,"₹ 1,58,643","2,70,000","6,50,000","AICTE, MHRD "
+284,B. N. M. Institute of Technology,BE/B.Tech,BE Computer Science And Engineering, Bangalore, Karnataka,3.8,303,500,2025,"₹ 30,30,000","6,16,000","34,28,000","AICTE, NBA "
+285,Sir M Visvesvaraya Institute of Technology,BE/B.Tech,BE Computer Science And Engineering, Bangalore, Karnataka,3.8,304,500,2025,"₹ 24,00,000","7,00,000","15,73,000","AICTE, NBA "
+286,Coochbehar Government Engineering College,BE/B.Tech,B.Tech Computer Science and Engineering, Cooch Behar, West Bengal,4.1,305,500,2025,"₹ 55,000",,,AICTE 
+287,Government College of Engineering & Textile Technology,BE/B.Tech,B.Tech Computer Science and Engineering, Behrampore, West Bengal,3.8,306,500,2025,"₹ 53,400","4,00,000","12,00,000",AICTE 
+288,KLS Gogte Institute of Technology,BE/B.Tech,BE Computer Science And Engineering, Belgaum, Karnataka,3.7,307,500,2025,"₹ 12,48,348","6,54,000","51,00,000","AICTE, COA, UGC, NBA "
+289,Dr. Ambedkar Institute of Technology,BE/B.Tech,BE Computer Science And Engineering, Bangalore, Karnataka,3.7,308,500,2025,"₹ 2,59,160",,"19,75,000","AICTE, UGC, NBA "
+290,Ramdeobaba University,BE/B.Tech,BE Computer Science And Engineering, Nagpur, Maharashtra,4.1,309,500,2025,"₹ 11,46,250","6,90,000","51,00,000","AICTE, NBA "
+291,Dr. Ambedkar Institute of Technology for Handicapped,BE/B.Tech,B.Tech Computer Science and Engineering, Kanpur, Uttar Pradesh,3.9,311,500,2025,"₹ 2,27,500",,"50,00,000",AICTE 
+292,D. Y. Patil College of Engineering,BE/B.Tech,BE Computer Engineering, Pune, Maharashtra,3.9,312,500,2025,,"8,00,000","52,00,000","AICTE, NBA "
+293,SDM College of Engineering and Technology,BE/B.Tech,BE Computer Science And Engineering, Dharwad, Karnataka,4.1,313,500,2025,"₹ 11,55,010","6,59,000","43,94,000","AICTE, NBA "
+294,Sathyabama Institute of Science and Technology,BE/B.Tech,BE Computer Science And Engineering, Chennai, Tamil Nadu,3.9,314,500,2025,"₹ 12,20,000","5,57,000","41,20,000","DCI, AICTE, COA, PCI, INC "
+295,Government College of Engineering,BE/B.Tech,BE Electrical Engineering, Aurangabad, Maharashtra,3.9,315,500,2025,"₹ 3,23,501","5,80,000","11,50,000",AICTE 
+296,National Institute of Food Technology Entrepreneurship and Management,BE/B.Tech,B.Tech Food Technology and Management, Sonepat, Haryana,4,316,500,2025,"₹ 7,90,250",,"18,00,000","AICTE, UGC "
+297,M.S. Ramaiah University of Applied Sciences,BE/B.Tech,B.Tech Computer Science and Engineering, Bangalore, Karnataka,4,317,500,2025,"₹ 21,00,000","7,00,000","52,00,000","DCI, AICTE, PCI, BCI, UGC "
+298,KIET Deemed To Be University,BE/B.Tech,B.Tech Computer Science and Engineering, Ghaziabad, Uttar Pradesh,4.1,318,500,2025,"₹ 7,99,000","5,44,000","60,00,000","AICTE, PCI, UGC, NBA "
+299,Thakur College of Engineering and Technology,BE/B.Tech,B.Tech Artificial Intelligence & Data Science, Mumbai, Maharashtra,4,319,500,2025,"₹ 6,38,000","7,65,000","21,00,000","AICTE, NBA "
+300,Vidyavardhaka College of Engineering,BE/B.Tech,BE Computer Science And Engineering, Mysore, Karnataka,4.1,320,500,2025,"₹ 13,32,840",,"41,30,000","AICTE, UGC, NBA "
+301,CMR Institute of Technology,BE/B.Tech,BE Electronics & Communication Engineering, Bangalore, Karnataka,4,321,500,2025,"₹ 12,04,000","6,99,000","44,10,000","AICTE, NBA "
+302,DY Patil International University,BE/B.Tech,B.Tech Computer Science and Engineering, Pune, Maharashtra,4.1,322,500,2025,"₹ 11,32,500","7,00,000","33,00,000","AICTE, UGC, AIU "
+303,Puducherry Technological University,BE/B.Tech,B.Tech Computer Science and Engineering, Pondicherry, Puducherry,3.8,323,500,2025,"₹ 3,61,604","4,00,000","10,00,000",AICTE 
+304,International Institute of Information Technology,BE/B.Tech,B.Tech Computer Engineering, Pune, Maharashtra,3.8,324,500,2025,"₹ 4,88,000",,"28,00,000","AICTE, UGC, NBA "
+305,Government Sri Krishnarajendra Silver Jubilee Technological Institute,BE/B.Tech,BE Electronics & Communication Engineering, Bangalore, Karnataka,3.6,325,500,2025,"₹ 4,17,060",,,"AICTE, NBA "
+306,REVA University,BE/B.Tech,B.Tech Computer Science and Engineering, Bangalore, Karnataka,4.2,326,500,2025,"₹ 26,00,000",,"45,50,000","AICTE, COA, BCI, UGC "
+307,G L Bajaj Institute of Technology and Management,BE/B.Tech,B.Tech Computer Science and Engineering, Greater Noida, Uttar Pradesh,3.9,327,500,2025,"₹ 4,21,800","7,35,000","58,00,000","AICTE, BCI, NBA "
+308,Government College of Engineering,BE/B.Tech,B.Tech Electronics & Telecommunication Engineering, Amravati, Maharashtra,3.7,328,500,2025,"₹ 3,36,681","5,65,000","26,50,000","AICTE, NBA "
+309,Acharya Institute of Technology,BE/B.Tech,BE Computer Science And Engineering, Bangalore, Karnataka,4.1,329,500,2025,"₹ 12,04,400","6,00,000","65,00,000","AICTE, NBA "
+310,Government College of Engineering,BE/B.Tech,B.Tech Electrical Engineering, Satara, Maharashtra,3.9,330,500,2025,"₹ 3,35,490","5,61,000","18,00,000","AICTE, NBA "
+311,Malnad College of Engineering,BE/B.Tech,BE Computer Science And Engineering, Hassan, Karnataka,4,331,500,2025,"₹ 4,86,440",,"12,50,000","AICTE, UGC, NBA "
+312,Sahyadri College of Engineering & Management (SCEM),BE/B.Tech,BE Computer Science And Engineering, Mangalore, Karnataka,4.1,332,500,2025,"₹ 12,04,400","4,00,000","40,00,000","AICTE, NBA "
+313,Pimpri Chinchwad College of Engineering and Research   Ravet,BE/B.Tech,BE Computer Engineering, Pune, Maharashtra,3.9,334,500,2025,"₹ 5,72,000","5,34,000","19,50,000","AICTE, NBA "
+314,BGS & SJB Group of Institutions,BE/B.Tech,BE Information Science & Engineering, Bangalore, Karnataka,3.8,335,500,2025,"₹ 12,04,400","5,52,000","27,00,000","AICTE, NBA "
+315,Woxsen University,BE/B.Tech,B.Tech Computer Science and Engineering, Hyderabad, Telangana,4.2,336,500,2025,"₹ 28,85,000","9,90,000","24,00,000","COA, BCI, AACSB, AMBA "
+316,Sri Siddhartha Institute of Technology,BE/B.Tech,BE Computer Science And Engineering, Tumkur, Karnataka,4,337,500,2025,"₹ 16,00,000",,"12,00,000","AICTE, NBA "
+317,Vidyalankar Institute of Technology,BE/B.Tech,BE Computer Science & Electronic Engineering, Mumbai, Maharashtra,4.2,338,500,2025,"₹ 7,04,000","12,96,000","37,50,000",AICTE 
+318,KLE Dr. M.S.Sheshgiri College of Engineering & Technology,BE/B.Tech,BE Computer Science And Engineering, Belgaum, Karnataka,3.9,339,500,2025,"₹ 9,73,698",,"34,00,000","AICTE, NBA "
+319,University of Lucknow,BE/B.Tech,B.Tech Computer Science and Engineering, Lucknow, Uttar Pradesh,3.8,340,500,2025,"₹ 4,86,840","8,25,000","26,00,000","AICTE, UGC "
+320,JSPM'S Rajarshi Shahu College of Engineering   Tathawade,BE/B.Tech,B.Tech Computer Engineering, Pune, Maharashtra,3.9,341,500,2025,"₹ 4,80,956",,"30,00,000","AICTE, NBA "
+321,Dayananda Sagar Academy of Technology and Management,BE/B.Tech,BE Computer Science And Engineering, Bangalore, Karnataka,4,342,500,2025,"₹ 13,12,840","5,36,000","25,11,000","AICTE, NBA "
+322,PES College of Engineering,BE/B.Tech,BE Computer Science And Engineering, Mandya, Karnataka,3.9,343,500,2025,"₹ 3,74,856","5,30,000","14,50,000","AICTE, NBA "
+323,Bharati Vidyapeeth's College  of Engineering   Lavale,BE/B.Tech,BE Computer Engineering, Pune, Maharashtra,3.6,344,500,2025,"₹ 4,68,000",,"19,00,000",AICTE 
+324,Government Engineering College,BE/B.Tech,BE Electrical And Electronics Engineering, Raipur, Chhattisgarh,3.1,345,500,2025,"₹ 82,780",,,AICTE 
+325,St Joseph Engineering College,BE/B.Tech,BE Computer Science And Engineering, Mangalore, Karnataka,4,346,500,2025,"₹ 9,76,440",,"27,50,000","AICTE, NBA "
+326,Global Academy of Technology,BE/B.Tech,BE Computer Science And Engineering, Bangalore, Karnataka,3.9,347,500,2025,"₹ 8,80,000","5,17,000","22,00,000","AICTE, NBA "
+327,Sanskriti University,BE/B.Tech,B.Tech Computer Science and Engineering, Mathura, Uttar Pradesh,3.8,348,500,2025,"₹ 5,55,000","6,20,000","1,40,00,000","NCTE, RCI, PCI, BCI, ICAR "
+328,MIT Academy of Engineering,BE/B.Tech,B.Tech Computer Engineering, Pune, Maharashtra,3.8,349,500,2025,"₹ 7,66,948","6,10,000","28,00,000","AICTE, UGC, NBA "
+329,MVJ College of Engineering,BE/B.Tech,BE Computer Science And Engineering, Bangalore, Karnataka,3.8,350,500,2025,"₹ 3,27,200",,"27,70,000","AICTE, UGC, NBA "
+330,Dr. D. Y. Patil Institute of Engineering,BE/B.Tech,BE Computer Engineering, Pune, Maharashtra,3.8,351,500,2025,"₹ 3,95,168",,"45,00,000",AICTE 
+331,GSSS Institute of Engineering and Technology for Women,BE/B.Tech,BE Electronics & Communication Engineering, Mysore, Karnataka,4.3,352,500,2025,"₹ 9,00,000","6,80,000","34,00,000","AICTE, NBA "
+332,University BDT College of Engineering,BE/B.Tech,BE Computer Science And Engineering, Davanagere, Karnataka,3.5,353,500,2025,"₹ 4,72,420",,,"AICTE, NBA "
+333,Rajkiya Engineering College,BE/B.Tech,B.Tech Electrical Engineering, Banda, Uttar Pradesh,3.9,354,500,2025,"₹ 2,29,200",,"10,00,000",AICTE 
+334,AISSMS College of Engineering,BE/B.Tech,BE Computer Engineering, Pune, Maharashtra,4.1,355,500,2025,"₹ 19,64,944","4,50,000","45,00,000",AICTE 
+335,Sri Manakula Vinayagar Engineering College,BE/B.Tech,B.Tech Artificial Intelligence & Data Science, Pondicherry, Puducherry,3.9,356,500,2025,"₹ 1,96,400",,"10,00,000","AICTE, NBA "
+336,Sapthagiri NPS University,BE/B.Tech,BE Computer Science And Engineering, Bangalore, Karnataka,3.6,357,500,2025,"₹ 11,00,000","6,00,000","35,00,000","AICTE, UGC, NBA "
+337,Cambridge Institute of Technology,BE/B.Tech,BE Computer Science And Engineering, Bangalore, Karnataka,4.1,358,500,2025,"₹ 24,00,000","12,00,000","53,20,000","AICTE, UGC, NBA "
+338,Fr. Conceicao Rodrigues College of Engineering,BE/B.Tech,B.Tech Computer Science and Engineering, Mumbai, Maharashtra,4,359,500,2025,"₹ 8,71,504","6,30,000","22,00,000","AICTE, NBA "
+339,Basaveshwar Engineering College,BE/B.Tech,BE Computer Science And Engineering, Bagalkot, Karnataka,3.8,360,500,2025,"₹ 18,00,000",,,"AICTE, NBA "
+340,Rajkiya Engineering College,BE/B.Tech,B.Tech Computer Science and Engineering, Kannauj, Uttar Pradesh,3.7,361,500,2025,"₹ 2,22,000",,"16,00,000",AICTE 
+341,Dr. D. Y. Patil Institute of Technology   Pimpri,BE/B.Tech,BE Computer Engineering, Pune, Maharashtra,3.9,362,500,2025,"₹ 5,08,000",,"4,78,000",AICTE 
+342,Bhilai Institute of Technology,BE/B.Tech,B.Tech Computer Science and Engineering, Durg, Chhattisgarh,3.6,363,500,2025,"₹ 3,06,150",,,"AICTE, NBA "
+343,KLE Institute of Technology,BE/B.Tech,BE Computer Science And Engineering, Hubli, Karnataka,3.6,364,500,2025,"₹ 11,71,348","4,62,000","8,00,000","AICTE, NBA "
+344,Bapuji Institute of Engineering and Technology,BE/B.Tech,BE Computer Science And Engineering, Davanagere, Karnataka,3.8,365,500,2025,"₹ 5,66,440","4,97,000","30,00,000","AICTE, UGC, NBA "
+345,Government College of Engineering,BE/B.Tech,BE Computer Science And Engineering, Nagpur, Maharashtra,3.8,366,500,2025,"₹ 1,49,681","5,77,000","9,50,000",AICTE 
+346,Jawaharlal Nehru National College of Engineering,BE/B.Tech,BE Computer Science And Engineering, Shimoga, Karnataka,3.7,367,500,2025,"₹ 9,48,884",,"24,00,000","AICTE, NBA "
+347,Dayananda Sagar University,BE/B.Tech,B.Tech Computer Science and Engineering, Bangalore, Karnataka,4.1,368,500,2025,"₹ 16,48,000","5,52,000","35,00,000","AICTE, PCI, INC, BCI, UGC "
+348,Galgotias College of Engineering and Technology,BE/B.Tech,B.Tech Computer Science and Engineering, Greater Noida, Uttar Pradesh,3.9,369,500,2025,"₹ 4,62,412",,"39,00,000","AICTE, NBA "
+349,Government College of Engineering and Research,BE/B.Tech,B.Tech Computer Engineering, Pune, Maharashtra,3.6,370,500,2025,"₹ 96,501","3,83,000","7,50,000",AICTE 
+350,Visvesvaraya Technological University,BE/B.Tech,B.Tech Computer Science and Engineering, Belgaum, Karnataka,3.7,371,500,2025,"₹ 4,50,000",,"5,40,000","AICTE, UGC "
+351,AISSMS Institute of Information Technology,BE/B.Tech,B.Tech Artificial Intelligence & Data Science, Pune, Maharashtra,4,372,500,2025,"₹ 1,40,851","4,50,000","14,00,000",AICTE 
+352,Manakula Vinayagar Institute of Technology,BE/B.Tech,B.Tech Electronics & Communication Engineering, Pondicherry, Puducherry,3.7,373,500,2025,"₹ 1,70,000","3,00,000","7,00,000","AICTE, NBA "
+353,Ballari Institute of Technology and Management,BE/B.Tech,BE Computer Science And Engineering, Bellary, Karnataka,4.1,374,500,2025,"₹ 13,00,000",,"40,00,000","AICTE, UGC, NBA "
+354,Mangalore Institute of Technology and Engineering,BE/B.Tech,BE Computer Science And Engineering, Mangalore, Karnataka,4.1,375,500,2025,"₹ 10,46,000",,"50,00,000",AICTE 
+355,Rajkiya Engineering College,BE/B.Tech,B.Tech Computer Science and Engineering, Sonbhadra, Uttar Pradesh,3.7,376,500,2025,"₹ 2,14,200",,"12,00,000",AICTE 
+356,Laxminarayan Institute of Technology,BE/B.Tech,B.Tech Chemical Engineering, Nagpur, Maharashtra,3.8,377,500,2025,"₹ 4,60,000","3,50,000","8,00,000","AICTE, UGC, NBA "
+357,BGS College of Engineering and Technology,BE/B.Tech,BE Computer Science And Engineering, Bangalore, Karnataka,4.6,378,500,2025,"₹ 12,04,400",,,AICTE 
+358,Gurukul Vidyapeeth,BE/B.Tech,B.Tech Marine Engineering, Chandigarh, Chandigarh,1.8,,,,"₹ 3,66,000",,,AICTE 
+359,PDA College of Engineering,BE/B.Tech,BE Computer Science And Engineering, Gulbarga, Karnataka,3.7,379,500,2025,"₹ 8,80,000",,"6,00,000","AICTE, UGC, NBA "
+360,Shri Guru Gobind Singhji Institute of Engineering and Technology,BE/B.Tech,B.Tech Computer Science and Engineering, Nanded, Maharashtra,3.9,380,500,2025,"₹ 1,33,079","5,00,000","27,00,000","AICTE, NBA "
+361,College of Agriculture,BE/B.Tech,B.Tech Agricultural Engineering, Hassan, Karnataka,4.2,381,500,2025,"₹ 2,93,800",,,UGC 
+362,Govt Engineering College,BE/B.Tech,B.Tech Computer Science and Engineering, Bilaspur, Chhattisgarh,3.5,382,500,2025,"₹ 47,670",,,"AICTE, NBA "
+363,Kamla Nehru Institute of Physical and Social Sciences,BE/B.Tech,B.Tech Computer Science and Engineering, Sultanpur, Uttar Pradesh,4,383,500,2025,"₹ 2,44,800",,,"NCTE, AICTE "
+364,Nilai Institute of Technology,BE/B.Tech,B.Tech Computer Science and Engineering, Ranchi, Jharkhand,,384,500,2025,"₹ 3,06,000",,,"AICTE, MHRD "
+365,Fr. C. Rodrigues Institute of Technology,BE/B.Tech,B.Tech Computer Engineering, Navi Mumbai, Maharashtra,3.8,385,500,2025,"₹ 8,11,168","5,30,000","12,00,000","AICTE, NBA "
+366,SJC Institute of Technology,BE/B.Tech,BE Computer Science And Engineering, Bangalore, Karnataka,3.7,386,500,2025,"₹ 11,60,000","5,60,000","28,00,000","AICTE, UGC, NBA "
+367,UBDT College of Engineering,BE/B.Tech,BE Mechanical Engineering, Davanagere, Karnataka,3.6,387,500,2025,"₹ 4,09,640",,"18,90,000",
+368,College of Engineering,BE/B.Tech,B.Tech Computer Science and Engineering, Thiruvananthapuram, Kerala,4.2,388,500,2025,"₹ 85,600",,"33,00,000","AICTE, UGC, NBA "
+369,Progressive Education Society's Modern College of Engineering,BE/B.Tech,B.Tech Computer Engineering, Pune, Maharashtra,3.6,389,500,2025,"₹ 5,09,368",,"14,54,000",AICTE 
+370,CGC College of Engineering   Landran,BE/B.Tech,B.Tech Computer Science and Engineering, Mohali, Punjab,4,390,500,2025,"₹ 6,73,000",,"54,00,000","AICTE, NBA "
+371,The Oxford College of Engineering,BE/B.Tech,BE Computer Science And Engineering, Bangalore, Karnataka,3.3,391,500,2025,"₹ 15,00,000","5,00,000","22,00,000","AICTE, UGC, NBA "
+372,Atria Institute of Technology,BE/B.Tech,BE Computer Science And Engineering, Bangalore, Karnataka,3.6,392,500,2025,"₹ 9,42,440","10,32,000","30,00,000","AICTE, NBA "
+373,Rajiv Gandhi College of Engineering and Technology,BE/B.Tech,B.Tech Computer Science and Engineering, Pondicherry, Puducherry,3.4,393,500,2025,"₹ 1,28,000","4,22,000","5,20,000",AICTE 
+374,Rajkiya Engineering College,BE/B.Tech,B.Tech Information Technology, Ambedkar Nagar, Uttar Pradesh,3.8,394,500,2025,"₹ 2,14,200","3,89,000","7,00,000",AICTE 
+375,Sinhgad College of Engineering   Vadgaon Ambegaon,BE/B.Tech,BE Computer Engineering, Pune, Maharashtra,3.9,395,500,2025,"₹ 4,76,264","5,60,000","12,50,000","AICTE, NBA "
+376,KS Institute of Technology,BE/B.Tech,BE Computer Science And Engineering, Bangalore, Karnataka,3.5,396,500,2025,"₹ 8,80,000",,,"AICTE, NBA "
+377,Xavier Institute of Engineering,BE/B.Tech,BE Information Technology, Mumbai, Maharashtra,3.7,397,500,2025,"₹ 6,88,000","3,00,000","4,08,000",AICTE 
+378,University of Agricultural Sciences,BE/B.Tech,B.Tech Agricultural Engineering, Bangalore, Karnataka,4.1,398,500,2025,"₹ 2,93,800",,,UGC 
+379,Vignan's Foundation for Science,BE/B.Tech,B.Tech Computer Science, Guntur, Andhra Pradesh,4.1,399,500,2025,"₹ 11,40,000",,"44,00,000","AICTE, PCI, BCI, UGC, NBA "
+380,Chhattisgarh Swami Vivekanand Technical University,BE/B.Tech,B.Tech Artificial Intelligence, Bhilai, Chhattisgarh,3.5,400,500,2025,"₹ 4,09,400","4,00,000","12,00,000","AICTE, UGC "
+381,Vidya Vikas Institute of Engineering and Technology,BE/B.Tech,BE Computer Science And Engineering, Mysore, Karnataka,3.9,401,500,2025,"₹ 4,09,640",,"7,50,000","AICTE, NBA "
+382,Institute of Engineering and Rural Technology,BE/B.Tech,B.Tech Computer Science and Engineering, Allahabad, Uttar Pradesh,3.3,402,500,2025,"₹ 2,67,000","3,00,000","6,00,000",AICTE 
+383,Institute of Chemical Technology   Marathwada,BE/B.Tech,B.Tech + M.Tech Chemical Engineering, Jalna, Maharashtra,,403,500,2025,"₹ 5,29,165","6,70,000","15,80,000","UGC, NBA, MHRD "
+384,Government Engineering College,BE/B.Tech,BE Computer Science And Engineering, Hassan, Karnataka,3.9,404,500,2025,"₹ 1,63,000","3,20,000","5,00,000",AICTE 
+385,Sai Vidya Institute of Technology,BE/B.Tech,BE Computer Science And Engineering, Bangalore, Karnataka,4.3,405,500,2025,"₹ 12,00,000","5,43,000","20,00,000","AICTE, NBA "
+386,Sam Higginbottom University of Agriculture Technology and Sciences,BE/B.Tech,B.Tech Computer Science and Engineering, Allahabad, Uttar Pradesh,4,,,,"₹ 4,45,235","6,20,000","10,00,000","NCTE, INC, ICAR, UGC "
+387,Marathwada Mitra Mandal's College of Engineering   Karvenagar,BE/B.Tech,BE Computer Engineering, Pune, Maharashtra,3.7,406,500,2025,"₹ 4,94,000","5,50,000","19,00,000","AICTE, NBA "
+388,Maharaja Institute of Technology,BE/B.Tech,BE Computer Science And Engineering, Mysore, Karnataka,3.9,407,500,2025,"₹ 8,80,000","5,17,958","7,00,000","AICTE, NBA "
+389,Rajkiya Engineering College,BE/B.Tech,B.Tech Computer Science and Engineering, Mainpuri, Uttar Pradesh,3.7,408,500,2025,"₹ 2,55,300","4,18,000","5,50,000",AICTE 
+390,KIT's College of Engineering,BE/B.Tech,B.Tech Artificial Intelligence & Machine Learning, Kolhapur, Maharashtra,4.2,409,500,2025,"₹ 3,91,000","6,50,000","41,00,000","AICTE, UGC, NBA "
+391,Don Bosco Institute of Technology,BE/B.Tech,BE Computer Science And Engineering, Bangalore, Karnataka,3.7,410,500,2025,"₹ 11,24,400",,"30,00,000","AICTE, NBA "
+392,GM University,BE/B.Tech,BE Computer Science And Engineering, Davanagere, Karnataka,3.8,411,500,2025,"₹ 10,40,000",,,"AICTE, UGC, NBA "
+393,K.K. Wagh Institute of Engineering Education & Research,BE/B.Tech,B.Tech Computer Engineering, Nashik, Maharashtra,4.1,412,500,2025,"₹ 6,52,000",,"22,00,000","AICTE, NBA "
+394,AMC Engineering College,BE/B.Tech,BE Computer Science And Engineering, Bangalore, Karnataka,3.7,413,500,2025,"₹ 14,52,000","5,50,000","30,00,000","AICTE, NBA "
+395,RajaRajeswari College of Engineering,BE/B.Tech,BE Computer Science And Engineering, Bangalore, Karnataka,3.5,414,500,2025,"₹ 8,80,000","4,50,000","24,00,000","AICTE, UGC, NBA "
+396,Rajkiya Engineering College,BE/B.Tech,B.Tech Information Technology, Bijnor, Uttar Pradesh,3.3,415,500,2025,"₹ 1,98,720",,"7,00,000",AICTE 
+397,Modern Education Society's Wadia College of Engineering,BE/B.Tech,BE Computer Engineering, Pune, Maharashtra,3.8,416,500,2025,"₹ 5,28,000","5,30,000","42,00,000","AICTE, NBA "
+398,BLDEA's V.P. Dr.P.G.Halakatti College of Engineering & Technology,BE/B.Tech,BE Computer Science And Engineering, Bijapur, Karnataka,3.8,417,500,2025,"₹ 8,80,000","3,00,000","27,00,000","AICTE, NBA "
+399,Jain College of Engineering,BE/B.Tech,BE Computer Science And Engineering, Belgaum, Karnataka,3.7,418,500,2025,"₹ 4,89,440","5,50,000","12,75,000","AICTE, NBA "
+400,Bundelkhand University,BE/B.Tech,B.Tech Computer Science and Engineering, Jhansi, Uttar Pradesh,3.8,419,500,2025,"₹ 3,40,000",,,AICTE 
+401,PES Institute of Technology and Management,BE/B.Tech,BE Computer Science And Engineering, Shimoga, Karnataka,3.9,420,500,2025,"₹ 8,80,000","3,30,000","8,00,000","AICTE, NBA "
+402,East Point Group of Institutions,BE/B.Tech,BE Computer Science And Engineering, Bangalore, Karnataka,3.7,421,500,2025,"₹ 14,26,500","6,50,000","33,00,000","AICTE, PCI, INC, NBA "
+403,KLE College of Engineering and Technology,BE/B.Tech,BE Computer Science And Engineering, Chikodi, Karnataka,3.8,422,500,2025,"₹ 8,60,000","3,50,000","7,25,000","AICTE, NBA "
+404,East West Institute of Technology,BE/B.Tech,BE Computer Science And Engineering, Bangalore, Karnataka,3.5,424,500,2025,"₹ 12,40,000",,"26,65,000","AICTE, UGC, NBA "
+405,ABES Engineering College,BE/B.Tech,B.Tech Computer Science and Engineering, Ghaziabad, Uttar Pradesh,4,425,500,2025,"₹ 5,56,400","5,27,000","39,00,000","AICTE, NBA "
+406,Adichunchanagiri Institute of Technology,BE/B.Tech,BE Computer Science And Engineering, Chikmagalur, Karnataka,3.5,426,500,2025,"₹ 8,24,444",,,AICTE 
+407,Chanakya University,BE/B.Tech,B.Tech Biotechnology, Bangalore, Karnataka,4.4,427,500,2025,"₹ 12,05,000",,,"AICTE, BCI, UGC "
+408,KLS Vishwanathrao Deshpande Institute of Technology,BE/B.Tech,BE Electronics & Communication Engineering, Haliyal, Karnataka,3.7,428,500,2025,"₹ 7,64,444",,,AICTE 
+409,Appa Institute of Engineering and Technology,BE/B.Tech,BE Computer Science And Engineering, Gulbarga, Karnataka,3.7,429,500,2025,"₹ 4,49,640",,,AICTE 
+410,Maharaja Institute of Technology Thandavapura,BE/B.Tech,BE Electronics & Communication Engineering, Mysore, Karnataka,4,431,500,2025,"₹ 4,49,640",,"12,00,000",AICTE 
+411,BGS Institute of Technology,BE/B.Tech,BE Computer Science And Engineering, Mandya, Karnataka,4.3,432,500,2025,"₹ 6,80,000",,,"AICTE, NBA "
+412,Rajkiya Engineering College,BE/B.Tech,B.Tech Information Technology, Azamgarh, Uttar Pradesh,3.8,433,500,2025,"₹ 4,57,200","5,00,000","10,00,000",AICTE 
+413,Integral University,BE/B.Tech,B.Tech Computer Science and Engineering, Lucknow, Uttar Pradesh,4.1,434,500,2025,"₹ 10,60,000",,"32,50,000","NCTE, COA, PCI, INC, MCI "
+414,Lucknow Institute of Technology,BE/B.Tech,B.Tech Computer Science and Engineering, Lucknow, Uttar Pradesh,4,435,500,2025,"₹ 2,40,000",,,AICTE 
+415,Nitra Technical Campus,BE/B.Tech,B.Tech Computer Science and Engineering, Ghaziabad, Uttar Pradesh,3.6,436,500,2025,"₹ 3,62,460","4,00,000","12,00,000",AICTE 
+416,ABES Institute of Technology,BE/B.Tech,B.Tech Computer Science and Engineering, Ghaziabad, Uttar Pradesh,3.9,437,500,2025,"₹ 5,57,400","5,50,000","27,00,000","AICTE, NBA "
+417,Institute of Technology & Management,BE/B.Tech,B.Tech Computer Science and Engineering, Lucknow, Uttar Pradesh,3.6,438,500,2025,"₹ 2,66,600",,"8,60,000",AICTE 
+418,Amity University,BE/B.Tech,B.Tech Computer Science and Engineering, Lucknow, Uttar Pradesh,4.1,439,500,2025,"₹ 15,36,000","8,00,000","45,00,000","NCTE, RCI, COA, PCI, BCI "
+419,Azad Institute of Engineering and Technology,BE/B.Tech,B.Tech Computer Science and Engineering, Lucknow, Uttar Pradesh,3.4,440,500,2025,"₹ 2,00,000",,,"AICTE, NBA "

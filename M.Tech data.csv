@@ -1,0 +1,321 @@
+,College Names,Degress,Course,City,State,Rating for 5,Rank,Total Rank,Year of Rank,Fees in Ruppes,Average Package,Highest Package,Approved
+0,IIT Bombay  Indian Institute of Technology,M.Tech,M.Tech Computer Science And Engineering, Mumbai, Maharashtra,4.4,1,500,2025,"₹ 1,23,500","23,50,000","1,00,00,000","AICTE, UGC "
+1,IIT Delhi  Indian Institute of Technology,M.Tech,M.Tech Computer Science And Engineering, New Delhi, Delhi NCR,4.3,2,500,2025,"₹ 3,80,600","25,82,000","2,00,00,000",
+2,IIT Madras  Indian Institute of Technology,M.Tech,M.Tech Web-Enabled, Chennai, Tamil Nadu,4.3,3,500,2025,"₹ 1,81,834","21,48,000","4,30,00,000",AICTE 
+3,IIT Kanpur  Indian Institute of Technology,M.Tech,M.Tech Computer Science And Engineering, Kanpur, Uttar Pradesh,4.4,4,500,2025,"₹ 84,040","17,20,000","2,50,00,000",UGC 
+4,IIT Kharagpur  Indian Institute of Technology,M.Tech,M.Tech Computer Science And Data Processing, Kharagpur, West Bengal,4.4,5,500,2025,"₹ 63,800","24,30,000","2,44,00,000","AICTE, UGC, NBA "
+5,IIT Roorkee  Indian Institute of Technology,M.Tech,M.Tech Computer Science And Engineering, Roorkee, Uttarakhand,4.3,6,500,2025,"₹ 65,200","18,34,000","1,50,00,000","AICTE, UGC "
+6,IIT Guwahati  Indian Institute of Technology,M.Tech,M.Tech Computer Science And Engineering, Guwahati, Assam,4.3,7,500,2025,"₹ 1,23,700","25,21,000","1,25,00,000","AICTE, UGC "
+7,BITS Pilani,M.Tech,ME Computer Science And Engineering, Pilani, Rajasthan,4.4,8,500,2025,"₹ 12,12,175","22,00,000","1,46,68,000",UGC 
+8,IIT Hyderabad  Indian Institute of Technology,M.Tech,M.Tech Artificial Intelligence, Hyderabad, Telangana,4.3,9,500,2025,"₹ 2,86,376","20,81,000","66,13,000","AICTE, UGC "
+9,IIT BHU  Indian Institute of Technology,M.Tech,M.Tech Analytics and Decision Sciences, Varanasi, Uttar Pradesh,4.3,10,500,2025,"₹ 62,380","29,00,000","1,67,00,000",UGC 
+10,NIT Trichy,M.Tech,M.Tech Industrial Automation, Tiruchirappalli, Tamil Nadu,4.1,11,500,2025,"₹ 2,40,100","16,43,000","64,00,000","AICTE, UGC, MHRD "
+11,National Institute of Technology,M.Tech,M.Tech Computer Science And Engineering, Surathkal, Karnataka,4.2,12,500,2025,"₹ 2,47,040","24,56,000","55,00,000","AICTE, UGC, NBA "
+12,ISM Dhanbad  Indian Institute of Technology,M.Tech,M.Tech Data Analytics, Dhanbad, Jharkhand,4.3,13,500,2025,"₹ 1,27,936","20,61,000","66,14,000","AICTE, UGC "
+13,NIT Warangal,M.Tech,M.Tech Computer Science And Engineering, Warangal, Telangana,4.1,14,500,2025,"₹ 2,97,500","13,30,000","64,63,000","AICTE, UGC, NBA, MHRD "
+14,International Institute of Information Technology,M.Tech,M.Tech Computer Science And Engineering, Hyderabad, Telangana,4.1,15,500,2025,"₹ 9,00,000","33,96,000","1,28,00,000","AICTE, BCI, UGC "
+15,Indian Institute of Science,M.Tech,M.Tech Artificial Intelligence, Bangalore, Karnataka,4.4,16,500,2025,"₹ 56,600","28,00,000","85,00,000",UGC 
+16,IIT Mandi Indian Institute of Technology,M.Tech,M.Tech Computer Science And Engineering, Mandi, Himachal Pradesh,4.1,17,500,2025,"₹ 61,000","25,23,000","65,00,000",AICTE 
+17,IIT Patna  Indian Institute of Technology,M.Tech,M.Tech Artificial Intelligence, Patna, Bihar,4.2,18,500,2025,"₹ 1,87,250","24,56,000","59,00,000",UGC 
+18,IIT Gandhinagar  Indian Institute of Technology,M.Tech,M.Tech Computer Science And Engineering, Gandhinagar, Gujarat,4.3,19,500,2025,"₹ 24,00,000","15,35,000","62,00,000","AICTE, UGC "
+19,MNNIT Allahabad  Motilal Nehru National Institute of Technology,M.Tech,M.Tech Computer Science And Engineering, Allahabad, Uttar Pradesh,4.2,20,500,2025,"₹ 1,40,000","20,43,000","72,00,000",AICTE 
+20,IIT Jodhpur  Indian Institute of Technology,M.Tech,M.Tech Computer Science And Engineering, Jodhpur, Rajasthan,4.4,21,500,2025,"₹ 1,46,800","17,56,000","53,00,000",AICTE 
+21,Netaji Subhas University of Technology,M.Tech,M.Tech Computer Science And Engineering, New Delhi, Delhi NCR,3.7,22,500,2025,"₹ 3,46,500","16,78,000","65,00,000","AICTE, UGC, NBA "
+22,Indian Institute of Information Technology,M.Tech,M.Tech + Ph.D. Information Technology + Network and Security, Allahabad, Uttar Pradesh,4.3,23,500,2025,"₹ 8,27,290","33,00,000","1,21,00,000","AICTE, UGC "
+23,National Institute of Technology,M.Tech,M.Tech Computer Science And Engineering, Calicut, Kerala,4,24,500,2025,"₹ 5,98,000","13,39,000","56,59,000","AICTE, UGC "
+24,International Institute of Information Technology,M.Tech,M.Tech Computer Science And Engineering, Bangalore, Karnataka,4.2,25,500,2025,"₹ 9,39,000","21,80,000","65,00,000","AICTE, UGC "
+25,Birla Institute of Technology and Science,M.Tech,ME Computer Science And Engineering, South Goa, Goa,4.3,26,500,2025,"₹ 11,46,775","17,00,000","20,75,099",UGC 
+26,Birla Institute of Technology and Science,M.Tech,ME Computer Science And Engineering, Hyderabad, Telangana,4.5,27,500,2025,"₹ 11,46,775","20,77,914","1,00,00,000","AICTE, UGC "
+27,National Institute of Technology,M.Tech,M.Tech Computer Science And Engineering, Rourkela, Odisha,4.1,28,500,2025,"₹ 2,08,500","13,81,000","62,44,000","AICTE, UGC, MHRD "
+28,IIT Bhubaneswar  Indian Institute of Technology,M.Tech,M.Tech Computer Science And Engineering, Bhubaneswar, Odisha,4.1,29,500,2025,"₹ 80,280","16,98,000","67,60,000",AICTE 
+29,Delhi Technological University,M.Tech,M.Tech Computer Science And Engineering, New Delhi, Delhi NCR,4.2,30,500,2025,"₹ 2,50,000","15,45,000","85,30,000","UGC, NBA "
+30,IIT Jodhpur  Indian Institute of Technology,M.Tech,M.Tech Computer Science And Engineering, Jodhpur, Rajasthan,4.4,21,500,2025,"₹ 1,46,800","17,56,000","53,00,000",AICTE 
+31,Netaji Subhas University of Technology,M.Tech,M.Tech Computer Science And Engineering, New Delhi, Delhi NCR,3.7,22,500,2025,"₹ 3,46,500","16,78,000","65,00,000","AICTE, UGC, NBA "
+32,Indian Institute of Information Technology,M.Tech,M.Tech + Ph.D. Information Technology + Network and Security, Allahabad, Uttar Pradesh,4.3,23,500,2025,"₹ 8,27,290","33,00,000","1,21,00,000","AICTE, UGC "
+33,National Institute of Technology,M.Tech,M.Tech Computer Science And Engineering, Calicut, Kerala,4,24,500,2025,"₹ 5,98,000","13,39,000","56,59,000","AICTE, UGC "
+34,International Institute of Information Technology,M.Tech,M.Tech Computer Science And Engineering, Bangalore, Karnataka,4.2,25,500,2025,"₹ 9,39,000","21,80,000","65,00,000","AICTE, UGC "
+35,Birla Institute of Technology and Science,M.Tech,ME Computer Science And Engineering, South Goa, Goa,4.3,26,500,2025,"₹ 11,46,775","17,00,000","20,75,099",UGC 
+36,Birla Institute of Technology and Science,M.Tech,ME Computer Science And Engineering, Hyderabad, Telangana,4.5,27,500,2025,"₹ 11,46,775","20,77,914","1,00,00,000","AICTE, UGC "
+37,National Institute of Technology,M.Tech,M.Tech Computer Science And Engineering, Rourkela, Odisha,4.1,28,500,2025,"₹ 2,08,500","13,81,000","62,44,000","AICTE, UGC, MHRD "
+38,IIT Bhubaneswar  Indian Institute of Technology,M.Tech,M.Tech Computer Science And Engineering, Bhubaneswar, Odisha,4.1,29,500,2025,"₹ 80,280","16,98,000","67,60,000",AICTE 
+39,Delhi Technological University,M.Tech,M.Tech Computer Science And Engineering, New Delhi, Delhi NCR,4.2,30,500,2025,"₹ 2,50,000","15,45,000","85,30,000","UGC, NBA "
+40,Indraprastha Institute of Information Technology,M.Tech,M.Tech Computer Science And Engineering, New Delhi, Delhi NCR,4.2,31,500,2025,"₹ 6,00,000","20,69,000","51,31,000","AICTE, NBA "
+41,Visvesvaraya National Institute of Technology,M.Tech,M.Tech Computer Science And Engineering, Nagpur, Maharashtra,4.1,32,500,2025,"₹ 3,41,230","10,70,000","64,00,000",UGC 
+42,Indian Institute of Information Technology,M.Tech,M.Tech Computer Science And Engineering, Lucknow, Uttar Pradesh,4.2,33,500,2025,"₹ 5,20,900","33,71,000","1,45,00,000",MHRD 
+43,IIT Indore  Indian Institute of Technology,M.Tech,M.Tech Computer Science And Engineering, Indore, Madhya Pradesh,4.2,34,500,2025,"₹ 2,55,080","23,91,000","1,37,00,000",AICTE 
+44,IIT Ropar  Indian Institute of Technology,M.Tech,M.Tech Computer Science And Engineering, Ropar, Punjab,4.3,35,500,2025,"₹ 2,24,530","23,91,393","65,75,613",MHRD 
+45,IIT Tirupati  Indian Institute of Technology,M.Tech,M.Tech Computer Science And Engineering, Tirupati, Andhra Pradesh,4.2,36,500,2025,"₹ 60,820","15,54,000","41,64,000","AICTE, UGC "
+46,Atal Bihari Vajpayee Indian Institute of Information Technology and Management,M.Tech,M.Tech Wireless Networks & Applications, Gwalior, Madhya Pradesh,3.9,37,500,2025,"₹ 1,81,750","27,23,000","67,50,000",
+47,IIT Goa  Indian Institute of Technology,M.Tech,M.Tech Computer Science And Engineering, Ponda, Goa,4.2,38,500,2025,"₹ 75,384","18,85,000","60,00,000",UGC 
+48,National Institute of Technology,M.Tech,M.Tech Computer Science And Engineering, New Delhi, Delhi NCR,3.8,39,500,2025,"₹ 2,59,700","16,81,000","58,50,000","AICTE, UGC "
+49,Malaviya National Institute of Technology,M.Tech,M.Tech Vlsi Design, Jaipur, Rajasthan,4.2,40,500,2025,"₹ 2,36,974","13,20,000","64,00,000","AICTE, NBA, MHRD "
+50,Sardar Vallabhbhai National Institute of Technology,M.Tech,M.Tech Data Science, Surat, Gujarat,4,41,500,2025,"₹ 3,20,000","8,12,000","62,00,000",UGC 
+51,IIT Dharwad  Indian Institute of Technology,M.Tech,Ex.M.Tech Artificial Intelligence and Data Science, Dharwad, Karnataka,4.3,42,500,2025,,"12,63,000","52,00,000",UGC 
+52,National Institute of Technology,M.Tech,M.Tech Computer Science And Engineering, Jamshedpur, Jharkhand,4,43,500,2025,"₹ 2,20,000","12,63,000","82,00,000","AICTE, MHRD "
+53,National Institute of Technology,M.Tech,M.Tech Computer Science And Engineering, Durgapur, West Bengal,4.3,44,500,2025,"₹ 2,72,900","12,61,000","80,00,000","AICTE, UGC "
+54,Jadavpur University,M.Tech,M.Tech Computer Technology, Kolkata, West Bengal,4.3,45,500,2025,"₹ 2,24,000",,"40,00,000","NCTE, AICTE, COA, UGC, NBA "
+55,College of Engineering,M.Tech,ME Engineering Design, Chennai, Tamil Nadu,4.2,46,500,2025,"₹ 2,52,110",,,AICTE 
+56,Defence Institute of Advanced Technology,M.Tech,M.Tech Cyber Security, Pune, Maharashtra,4.3,47,500,2025,"₹ 2,26,000","9,02,000","18,00,000","AICTE, UGC, NBA "
+57,IIT Jammu  Indian Institute of Technology,M.Tech,M.Tech Vlsi Design, Jammu, Jammu and Kashmir,4.2,48,500,2025,"₹ 1,03,320","15,50,000","53,00,000","AICTE, MHRD "
+58,IIT Palakkad  Indian Institute of Technology,M.Tech,M.Tech Data Science, Palakkad, Kerala,4.3,49,500,2025,"₹ 70,080","13,89,000","47,12,000",MHRD 
+59,Vellore Institute of Technology,M.Tech,M.Tech Computer Science And Engineering, Vellore, Tamil Nadu,4.1,50,500,2025,"₹ 3,83,000","9,90,000","1,00,00,000","AICTE, UGC, MHRD, ACCA "
+60,Punjab Engineering College University of Technology,M.Tech,M.Tech Computer Science And Engineering, Chandigarh, Chandigarh,4,51,500,2025,"₹ 2,13,000","13,61,000","61,03,000","AICTE, UGC "
+61,Maulana Azad National Institute of Technology,M.Tech,M.Tech Artificial Intelligence, Bhopal, Madhya Pradesh,4,52,500,2025,"₹ 1,89,200","14,82,000","56,00,000","AICTE, NBA "
+62,IIT Bhilai  Indian Institute of Technology,M.Tech,M.Tech Computer Science And Engineering, Bhilai, Chhattisgarh,4.2,53,500,2025,"₹ 1,08,400","12,68,000","49,00,000","UGC, MHRD "
+63,Dr BR Ambedkar National Institute of Technology,M.Tech,M.Tech Computer Science And Engineering, Jalandhar, Punjab,3.9,54,500,2025,"₹ 2,98,000","10,80,000","52,00,000","AICTE, UGC "
+64,National Institute of Technology,M.Tech,M.Tech Computer Science And Engineering, Patna, Bihar,4,55,500,2025,"₹ 2,23,300","9,90,000","41,37,000","AICTE, UGC, MHRD "
+65,National Institute of Technology,M.Tech,M.Tech Vlsi Design & Embedded System, Kurukshetra, Haryana,4.1,57,500,2025,"₹ 2,40,500","13,21,000","63,12,000","AICTE, NBA "
+66,Indian Institute of Information Technology Design and Manufacturing,M.Tech,M.Tech Artificial Intelligence and Machine Learning, Jabalpur, Madhya Pradesh,4,58,500,2025,"₹ 2,40,000","21,00,000","87,54,000",UGC 
+67,National Institute of Technology   Uttarakhand,M.Tech,M.Tech Microelectronics And Vlsi Design, Srinagar Garhwal, Uttarakhand,3.6,59,500,2025,"₹ 3,40,525","8,03,000","12,50,000",
+68,Indian Institute of Space Science and Technology,M.Tech,M.Tech Machine Learning and Computing, Thiruvananthapuram, Kerala,4.1,60,500,2025,"₹ 1,71,800","10,00,000","28,00,000","AICTE, UGC "
+69,National Institute of Technology,M.Tech,M.Tech Vlsi Design & Embedded System, Raipur, Chhattisgarh,3.9,61,500,2025,"₹ 2,09,550","11,07,000","60,00,000","AICTE, NBA "
+70,National Institute of Technology,M.Tech,M.Tech Computer Science And Engineering, South Goa, Goa,3.7,62,500,2025,"₹ 1,75,000","9,00,000","35,00,000","AICTE, UGC "
+71,National Institute of Technology,M.Tech,M.Tech Vlsi Design, Pondicherry, Puducherry,3.7,63,500,2025,"₹ 1,93,890","5,00,000","23,00,000","AICTE, UGC "
+72,Thapar Institute of Engineering and Technology,M.Tech,M.Tech Vlsi Design, Patiala, Punjab,3.9,64,500,2025,"₹ 3,88,000","11,38,000","1,23,00,000","AICTE, UGC, NBA "
+73,National Institute of Technology,M.Tech,M.Tech Computer Science And Engineering, Srinagar, Jammu and Kashmir,3.7,65,500,2025,"₹ 1,98,500","12,80,000","36,50,000",AICTE 
+74,Indian Institute of Information Technology,M.Tech,M.Tech Computer Science And Engineering, Pune, Maharashtra,3.9,66,500,2025,"₹ 3,31,400",,"45,00,000","AICTE, UGC "
+75,Birla Institute of Technology,M.Tech,M.Tech Computer Science And Engineering, Ranchi, Jharkhand,3.7,67,500,2025,"₹ 5,39,000","11,77,000","1,45,00,000","AICTE, PCI, UGC, NBA "
+76,Indian Institute of Information Technology,M.Tech,M.Tech Computer Science And Engineering, Tiruchirappalli, Tamil Nadu,4,68,500,2025,"₹ 2,53,200","18,03,500","46,67,000",AICTE 
+77,Rajiv Gandhi Institute of Petroleum Technology,M.Tech,M.Tech Petroleum Engineering, Amethi, Uttar Pradesh,4.2,69,500,2025,"₹ 1,38,000","10,67,000","24,00,000",AICTE 
+78,Indian Institute of Engineering Science and Technology   Shibpur,M.Tech,M.Tech Computer Science And Engineering, Howrah, West Bengal,4.1,70,500,2025,"₹ 2,17,700","8,39,000","56,00,000",AICTE 
+79,National Institute of Technology,M.Tech,M.Tech Computer Science And Engineering, Agartala, Tripura,4,71,500,2025,"₹ 1,80,000","14,71,000","52,00,000",AICTE 
+80,NIT Silchar,M.Tech,M.Tech Computer Science And Engineering, Silchar, Assam,4,72,500,2025,"₹ 1,70,480","8,00,000","54,00,000","AICTE, UGC, MHRD "
+81,Indian Institute of Information Technology,M.Tech,M.Tech Data Science, Bhopal, Madhya Pradesh,3.6,73,500,2025,"₹ 5,55,366","16,77,000","85,00,000",MHRD 
+82,National Institute of Technology,M.Tech,M.Tech Biotechnology, Tadepalligudem, Andhra Pradesh,3.8,74,500,2025,"₹ 1,73,300","8,13,000","44,10,000",MHRD 
+83,Indian Institute of Information Technology Sri City,M.Tech,M.Tech Internet of Things, Sri City, Andhra Pradesh,3.8,75,500,2025,"₹ 4,22,000","19,24,000","1,20,00,000",MHRD 
+84,Indian Institute of Information Technology,M.Tech,M.Tech Artificial Intelligence & Data Science, Ranchi, Jharkhand,4,76,500,2025,"₹ 3,12,000","12,36,000","54,00,000","UGC, MHRD "
+85,Indian Institute of Information Technology,M.Tech,M.Tech Cyber Security, Kottayam, Kerala,4,77,500,2025,"₹ 5,24,000","11,91,000","50,00,000","UGC, MHRD "
+86,National Institute of Technology,M.Tech,M.Tech Computer Science And Engineering, Hamirpur, Himachal Pradesh,4,78,500,2025,"₹ 2,11,900","10,58,000","58,00,000","AICTE, MHRD "
+87,Indian Institute of Information Technology,M.Tech,M.Tech Artificial Intelligence & Data Science, Bhagalpur, Bihar,4,79,500,2025,"₹ 3,21,700","10,35,000","83,00,000",AICTE 
+88,Indian Institute of Information Technology Design & Manufacturing,M.Tech,M.Tech Artificial Intelligence & Data Science, Chennai, Tamil Nadu,4.1,80,500,2025,"₹ 2,26,200","10,80,000","32,00,000",AICTE 
+89,Indian Institute of Information Technology,M.Tech,M.Tech Computer Science And Engineering, Kalyani, West Bengal,3.5,82,500,2025,"₹ 2,25,420","10,72,000","44,00,000",MHRD 
+90,Dhirubhai Ambani Institute of Information and Communication Technology,M.Tech,M.Tech Information And Communication Technology, Gandhinagar, Gujarat,4.3,83,500,2025,"₹ 3,95,000",,"53,00,000",AIU 
+91,International Institute of Information Technology   Naya Raipur,M.Tech,M.Tech Computer Science And Engineering, Raipur, Chhattisgarh,4.1,84,500,2025,"₹ 2,71,850","18,90,000","1,20,00,000",AICTE 
+92,R V College of Engineering,M.Tech,M.Tech Vlsi Design & Embedded System, Bangalore, Karnataka,3.9,85,500,2025,"₹ 1,38,600","12,52,400","67,00,000","AICTE, NBA "
+93,Indian Institute of Information Technology,M.Tech,M.Tech Artificial Intelligence & Data Science, Surat, Gujarat,4,86,500,2025,"₹ 2,50,000","16,40,000","1,20,00,000",AICTE 
+94,Indian Institute of Information Technology,M.Tech,M.Tech Computer Science And Engineering, Una, Himachal Pradesh,3.9,88,500,2025,"₹ 1,88,600","11,02,000","30,00,000",MHRD 
+95,Indian Institute of Information Technology Vadodara,M.Tech,M.Tech Data Science, Gandhinagar, Gujarat,4.1,89,500,2025,"₹ 3,00,840","12,00,000","56,30,000",MHRD 
+96,The LNM Institute of Information Technology,M.Tech,M.Tech Computer Science And Engineering, Jaipur, Rajasthan,3.9,90,500,2025,"₹ 4,44,000","13,36,000","1,24,00,000",AICTE 
+97,JNTUH College of Engineering,M.Tech,M.Tech Geotechnical Engineering, Hyderabad, Telangana,4,91,500,2025,"₹ 1,32,000","9,40,000","30,00,000","AICTE, UGC, NBA "
+98,Veermata Jijabai Technological Institute,M.Tech,M.Tech Computer Engineering, Mumbai, Maharashtra,4,92,500,2025,"₹ 1,83,434","16,35,000","72,30,000","AICTE, UGC, NBA "
+99,International Institute of Information Technology,M.Tech,M.Tech Computer Science And Engineering, Bhubaneswar, Odisha,3.8,93,500,2025,"₹ 4,25,000","8,81,000","56,20,000","AICTE, UGC "
+100,College of Engineering,M.Tech,M.Tech Computer Engineering, Pune, Maharashtra,4.2,94,500,2025,"₹ 2,24,270","11,62,000","52,57,000","AICTE, UGC, NBA "
+101,Netaji Subhas University of Technology   East Campus,M.Tech,M.Tech Artificial Intelligence, New Delhi, Delhi NCR,3.4,95,500,2025,"₹ 3,30,000","18,06,000","1,02,00,000",AICTE 
+102,BMS College of Engineering,M.Tech,M.Tech Computer Science And Engineering, Bangalore, Karnataka,4.1,96,500,2025,"₹ 3,00,000","11,40,000","51,50,000","AICTE, NBA "
+103,Indian Institute of Information Technology,M.Tech,M.Tech Artificial Intelligence & Data Science, Kota, Rajasthan,3.9,99,500,2025,"₹ 5,94,825","13,09,000","65,00,000",
+104,Jawaharlal Nehru University,M.Tech,M.Tech Computer Science & Technology, New Delhi, Delhi NCR,4.2,100,500,2025,₹ 740,"11,00,000","33,00,000",
+105,Maulana Abul Kalam Azad University of Technology,M.Tech,M.Tech Artificial Intelligence, Nadia, West Bengal,3.8,101,500,2025,"₹ 91,200","5,50,000","7,00,000","DCI, AICTE, PCI, BCI, UGC "
+106,Indian Institute of Information Technology,M.Tech,M.Tech Computer Science and Engineering, Guwahati, Assam,3.9,102,500,2025,"₹ 4,19,500","16,75,000","71,00,000",
+107,Zakir Hussain College of Engineering and Technology,M.Tech,M.Tech Artificial Intelligence, Aligarh, Uttar Pradesh,4,103,500,2025,"₹ 43,400",,,"AICTE, NBA "
+108,Jaypee Institute of Information Technology University,M.Tech,M.Tech Computer Science And Engineering, Noida, Uttar Pradesh,4,104,500,2025,"₹ 4,59,000",,"94,25,000","AICTE, UGC, NBA "
+109,Birsa Institute of Technology   Sindri,M.Tech,M.Tech Control System, Dhanbad, Jharkhand,4,106,500,2025,"₹ 39,066","7,57,000","16,50,000","AICTE, NBA "
+110,National Institute of Technology   Meghalaya,M.Tech,M.Tech Computer Science And Engineering, Shillong, Meghalaya,3.9,108,500,2025,"₹ 1,96,200","9,70,000","46,30,000",AICTE 
+111,National Institute of Technology,M.Tech,M.Tech Computer Science And Engineering, Imphal, Manipur,3.9,109,500,2025,"₹ 1,84,100",,"47,00,000",AICTE 
+112,Indian Institute of Information Technology Design and Manufacturing,M.Tech,M.Tech Artificial Intelligence & Data Science, Kurnool, Andhra Pradesh,3.8,110,500,2025,"₹ 3,35,300","7,64,000","22,00,000",MHRD 
+113,National Institute of Technology,M.Tech,M.Tech Computer Science And Engineering, South Sikkim, Sikkim,3.9,111,500,2025,"₹ 1,83,414","8,18,000","31,45,000","AICTE, UGC "
+114,SRM University,M.Tech,M.Tech Vlsi Design, Amaravathi, Andhra Pradesh,4.2,112,500,2025,"₹ 3,15,000","9,59,000","46,37,000","UGC, AIU "
+115,Netaji Subhas University of Technology   West Campus,M.Tech,M.Tech Structural Engineering, New Delhi, Delhi NCR,3.4,113,500,2025,"₹ 3,30,000",,,AICTE 
+116,Kalinga Institute of Industrial Technology,M.Tech,M.Tech Computer Science And Engineering, Bhubaneswar, Odisha,4.2,114,500,2025,"₹ 5,63,000","8,50,000","63,00,000","DCI, AICTE, INC, MCI, BCI "
+117,Indira Gandhi Delhi Technical University For Women,M.Tech,M.Tech Cyber Security, New Delhi, Delhi NCR,4.1,115,500,2025,"₹ 2,37,000","25,15,000","56,00,000","AICTE, UGC "
+118,Cochin University of Science and Technology,M.Tech,M.Tech Computer Science And Engineering, Ernakulam, Kerala,4,116,500,2025,"₹ 1,02,310","5,40,000","20,00,000","AICTE, UGC "
+119,SSN College of Engineering,M.Tech,ME Computer Science And Engineering, Chennai, Tamil Nadu,4.1,117,500,2025,"₹ 50,000",,"89,00,000","AICTE, UGC, NBA "
+120,National Institute of Technology,M.Tech,M.Tech Computer Science And Engineering, Dimapur, Nagaland,3.7,118,500,2025,"₹ 1,96,200","4,22,000","13,95,000","AICTE, UGC "
+121,Pune Institute of Computer Technology,M.Tech,M.Tech Computer Engineering, Pune, Maharashtra,4,119,500,2025,"₹ 1,85,087","10,11,000","33,57,000","AICTE, NBA "
+122,National Institute of Technology,M.Tech,M.Tech Mechanical Engineering, Aizawl, Mizoram,3.4,120,500,2025,"₹ 2,12,770","8,40,000","35,00,000",AICTE 
+123,National Institute of Technology,M.Tech,M.Tech Computer Science And Engineering, Papum Pare, Arunachal Pradesh,3.6,122,500,2025,"₹ 1,74,600","7,37,000","58,00,000","AICTE, UGC "
+124,St Joseph's College of Engineering and Technology,M.Tech,ME Computer Science And Engineering, Thanjavur, Tamil Nadu,3.9,123,500,2025,"₹ 60,000",,,AICTE 
+125,Institute of Chemical Technology,M.Tech,M.Tech, Mumbai, Maharashtra,4.3,124,500,2025,"₹ 2,07,000","6,00,000","9,00,000","UGC, NBA, MHRD "
+126,University School of Information,M.Tech,M.Tech Computer Science And Engineering, New Delhi, Delhi NCR,3.9,125,500,2025,"₹ 3,73,920","7,20,000","41,20,000",UGC 
+127,P.S.G College of Technology,M.Tech,M.Tech Biotechnology, Coimbatore, Tamil Nadu,4.2,127,500,2025,"₹ 60,000",,,AICTE 
+128,Roorkee Institute of Technology,M.Tech,M.Tech Production Engineering, Roorkee, Uttarakhand,4.3,128,500,2025,"₹ 1,60,000","8,00,000","18,00,000",AICTE 
+129,Siksha 'O' Anusandhan University,M.Tech,M.Tech Computer Science And Engineering, Bhubaneswar, Odisha,4.3,129,500,2025,"₹ 3,10,000","5,00,000","43,00,000","AICTE, MCI, ICAR, UGC, NBA "
+130,Sardar Patel Institute of Technology,M.Tech,M.Tech Computer Engineering, Mumbai, Maharashtra,4,130,500,2025,"₹ 2,00,000","15,14,000","52,00,000","AICTE, NBA "
+131,Institute of Technology,M.Tech,M.Tech Data Science, Ahmedabad, Gujarat,4.2,131,500,2025,"₹ 9,41,100","8,30,000","52,25,000","UGC, NBA "
+132,Indian Institute of Petroleum and Energy,M.Tech,M.Tech Energy Science And Technology, Visakhapatnam, Andhra Pradesh,4,134,500,2025,"₹ 68,600",,"20,00,000","AICTE, UGC "
+133,Birla Institute of Technology,M.Tech,M.Tech Computer Science, Patna, Bihar,3.7,135,500,2025,"₹ 4,59,000","13,47,000","36,54,000","AICTE, UGC "
+134,Madan Mohan Malaviya University of Technology,M.Tech,M.Tech Information Technology, Gorakhpur, Uttar Pradesh,3.9,136,500,2025,"₹ 4,74,800","7,00,000","59,00,000","AICTE, UGC, NBA "
+135,University of Calcutta,M.Tech,M.Tech Computer Science And Engineering, Kolkata, West Bengal,3.7,137,500,2025,"₹ 36,300",,,UGC 
+136,SASTRA University,M.Tech,M.Tech Artificial Intelligence & Data Science, Thanjavur, Tamil Nadu,3.8,139,500,2025,"₹ 2,98,000",,"27,00,000","NCTE, AICTE, UGC, DEB "
+137,PES University,M.Tech,M.Tech Computer Science And Engineering, Bangalore, Karnataka,4,140,500,2025,"₹ 9,10,000","10,10,000","65,00,000","AICTE, UGC "
+138,Department of Engineering,M.Tech,M.Tech Environmental Engineering, Kanchipuram, Tamil Nadu,3.7,141,500,2025,"₹ 4,43,000","6,66,000","65,00,000","NCTE, AICTE, UGC "
+139,Ramaiah Institute of Technology,M.Tech,M.Tech Computer Science And Engineering, Bangalore, Karnataka,4,143,500,2025,"₹ 2,86,020","7,66,000","50,00,000","AICTE, NBA "
+140,Lovely Professional University,M.Tech,M.Tech Computer Science And Engineering, Jalandhar, Punjab,4.2,144,500,2025,"₹ 4,20,000",,"2,50,00,000","NCTE, COA, PCI, BCI, ICAR "
+141,Dr. Hari singh Gour University,M.Tech,M.Tech Applied Geology, Sagar, Madhya Pradesh,3.6,145,500,2025,"₹ 23,720","1,80,000","4,25,000","AICTE, UGC "
+142,Shri Govindram Seksaria Institute of Technology and Science,M.Tech,M.Tech Environmental Engineering, Indore, Madhya Pradesh,3.7,146,500,2025,"₹ 1,75,250",,"24,00,000","AICTE, PCI, UGC, NBA "
+143,Shri Mata Vaishno Devi University,M.Tech,M.Tech Electronics And Communication Engineering, Katra, Jammu and Kashmir,3.9,147,500,2025,"₹ 1,98,990","5,05,000","9,50,000",UGC 
+144,Assam University,M.Tech,M.Tech Computer Science And Engineering, Silchar, Assam,3.6,148,500,2025,"₹ 97,130",,"9,00,000","NCTE, AICTE, PCI, BCI, UGC "
+145,Dwarkadas J Sanghvi College of Engineering,M.Tech,M.Tech Mechanical Engineering, Mumbai, Maharashtra,4.1,149,500,2025,"₹ 2,26,408","11,28,000","56,00,000","AICTE, NBA "
+146,K L University,M.Tech,M.Tech Artificial Intelligence & Data Science, Guntur, Andhra Pradesh,4.2,150,500,2025,"₹ 3,56,000","11,00,000","75,00,000","AICTE, COA, PCI, UGC "
+147,National Institute Of Advanced Manufacturing Technology (NIAMT),M.Tech,M.Tech Manufacturing Technology, Ranchi, Jharkhand,4.1,154,500,2025,"₹ 1,12,000","7,40,000","15,00,000",AICTE 
+148,GB Pant Delhi Skill and Entrepreneurship University,M.Tech,M.Tech Computer Science And Engineering, New Delhi, Delhi NCR,3.3,155,500,2025,"₹ 2,20,000","6,47,000","25,00,000",AICTE 
+149,University College of Engineering,M.Tech,M.Tech Parallel Distributed Systems, Hyderabad, Telangana,4.2,156,500,2025,"₹ 1,09,770","10,00,000","45,00,000",AICTE 
+150,Goa University,M.Tech,ME Industrial Engineering, North Goa, Goa,3.6,157,500,2025,"₹ 1,26,050",,,"UGC, MHRD, AIU "
+151,Jamia Millia Islamia University,M.Tech,M.Tech Environmental Science And Engineering, New Delhi, Delhi NCR,4.1,158,500,2025,"₹ 42,950","7,00,000","22,00,000","AICTE, UGC "
+152,University Institute of Engineering and Technology,M.Tech,ME Mechanical Engineering, Chandigarh, Chandigarh,3.8,159,500,2025,"₹ 83,030","9,11,000","25,00,000","AICTE, UGC "
+153,Central Institute of Technology (CIT),M.Tech,M.Tech Food Engineering And Technology, Kokrajhar, Assam,3.6,160,500,2025,"₹ 1,13,000","3,79,000","6,50,000","AICTE, UGC, MHRD "
+154,North Eastern Regional Institute of Science and Technology,M.Tech,M.Tech Civil Engineering, Itanagar, Arunachal Pradesh,3.8,161,500,2025,"₹ 61,140","6,00,000","9,72,000","AICTE, UGC, NBA, MHRD "
+155,JNTUK University College of Engineering,M.Tech,M.Tech Soil Mechanics and Foundation Engineering, East Godavari, Andhra Pradesh,4,163,500,2025,"₹ 60,000",,"67,00,000",
+156,Galgotias University,M.Tech,M.Tech Cad/ Cam, Greater Noida, Uttar Pradesh,3.8,165,500,2025,"₹ 1,97,000","5,40,000","60,00,000","NCTE, AICTE, COA, PCI, INC "
+157,Institute of Engineering and Technology,M.Tech,ME Computer Science And Engineering, Indore, Madhya Pradesh,3.8,167,500,2025,"₹ 1,47,666","7,00,000","1,13,00,000",AICTE 
+158,Sant Longowal Institute of Engineering and Technology,M.Tech,M.Tech Manufacturing Systems Engineering, Sangrur, Punjab,3.8,168,500,2025,"₹ 1,07,000","11,07,000","27,00,000","AICTE, MHRD "
+159,Deenbandhu Chhotu Ram University of Science and Technology,M.Tech,M.Tech Computer Science And Engineering, Sonepat, Haryana,3.6,169,500,2025,"₹ 1,31,110",,"6,00,000","AICTE, UGC, NBA "
+160,LJ University,M.Tech,ME Software Engineering, Ahmedabad, Gujarat,4,171,500,2025,"₹ 2,06,000","3,50,000","15,00,000","AICTE, BCI, UGC "
+161,Kalyani Government Engineering College,M.Tech,M.Tech Computer Science And Engineering, Nadia, West Bengal,4,173,500,2025,"₹ 24,091","5,75,000","86,00,000",AICTE 
+162,Dr. S. S. Bhatnagar University Institute of Chemical Engineering & Technology,M.Tech,ME Chemical Engineering, Chandigarh, Chandigarh,3.8,174,500,2025,"₹ 64,830","4,20,000",,"AICTE, UGC "
+163,Central University of Rajasthan,M.Tech,M.Tech Computer Science And Engineering, Ajmer, Rajasthan,3.6,175,500,2025,"₹ 80,100","5,00,000","6,50,000",AICTE 
+164,Sri Jayachamarajendra College of Engineering,M.Tech,M.Tech Computer Engineering, Mysore, Karnataka,4.1,176,500,2025,"₹ 1,36,940",,"56,00,000","AICTE, NBA "
+165,Maharishi Markandeshwar,M.Tech,M.Tech Computer Science And Engineering, Ambala, Haryana,4,179,500,2025,"₹ 3,07,550","6,00,000","42,00,000","DCI, AICTE, PCI, INC, MCI "
+166,Vallurupalli Nageswara Rao Vignana Jyothi Institute of Engineering and Technology,M.Tech,M.Tech Computer Science And Engineering, Hyderabad, Telangana,4.2,180,500,2025,"₹ 2,60,000","7,17,000","54,00,000","AICTE, UGC, NBA "
+167,VIT Bhopal University,M.Tech,M.Tech Artificial Intelligence & Data Science, Bhopal, Madhya Pradesh,3.9,182,500,2025,"₹ 3,83,000","11,00,000","70,00,000","AICTE, COA, UGC, MHRD "
+168,Walchand College of Engineering,M.Tech,M.Tech Civil Engineering, Sangli, Maharashtra,4.1,183,500,2025,"₹ 2,11,797","9,21,000","60,00,000","AICTE, NBA "
+169,Saveetha Institute of Medical And Technical Sciences,M.Tech,ME Computer Science And Engineering, Chennai, Tamil Nadu,4.2,184,500,2025,"₹ 1,20,000","9,00,000","15,00,000","AICTE, UGC "
+170,University Institute of Engineering and Technology,M.Tech,M.Tech Defence Technology, Kurukshetra, Haryana,3.5,185,500,2025,"₹ 1,48,820","4,70,000","11,40,000",UGC 
+171,Central University Of Jammu,M.Tech,M.Tech Computer Science & Technology, Jammu, Jammu and Kashmir,4,186,500,2025,"₹ 53,360","3,28,000","7,00,000","NCTE, AICTE, UGC "
+172,Vishwakarma Institute of Technology,M.Tech,M.Tech Computer Engineering, Pune, Maharashtra,4,188,500,2025,"₹ 1,85,016","7,50,000","45,00,000","AICTE, BCI, NBA, MHRD "
+173,Swami Keshvanand Institute of Technology,M.Tech,M.Tech Renewable Energy, Jaipur, Rajasthan,3.8,189,500,2025,"₹ 2,35,708","5,00,000","29,00,000","AICTE, NBA "
+174,JSS Science and Technology University,M.Tech,M.Tech Biotechnology, Mysore, Karnataka,4.2,190,500,2025,"₹ 1,38,600",,"60,00,000","AICTE, UGC, NBA "
+175,Gayatri Vidya Parishad College of Engineering,M.Tech,M.Tech Structural Engineering, Visakhapatnam, Andhra Pradesh,3.9,191,500,2025,"₹ 1,14,200","8,00,000","24,00,000",AICTE 
+176,Centurion University of Technology and Management,M.Tech,M.Tech Data Science, Bhubaneswar, Odisha,3.8,192,500,2025,"₹ 2,12,500","4,65,000","16,00,000","AICTE, PCI, UGC "
+177,University of Kalyani,M.Tech,M.Tech Computer Science And Engineering, Kalyani, West Bengal,3.8,193,500,2025,"₹ 85,970",,,"AICTE, UGC, AIU "
+178,C. V. Raman Global University,M.Tech,M.Tech Computer Science And Engineering, Bhubaneswar, Odisha,3.9,194,500,2025,"₹ 2,54,000",,"16,50,000","AICTE, UGC, NBA "
+179,Army Institute of Technology,M.Tech,M.Tech Data Science, Pune, Maharashtra,4.3,195,500,2025,"₹ 2,13,185","10,45,000","59,35,000",NBA 
+180,University Visvesvaraya College of Engineering,M.Tech,M.Tech Computer Science And Engineering, Bangalore, Karnataka,3.8,196,500,2025,"₹ 1,50,910",,"28,50,000",AICTE 
+181,J.C. Bose University Of Science And Technology,M.Tech,M.Tech Electronics And Communication Engineering, Faridabad, Haryana,3.7,198,500,2025,"₹ 1,90,659","6,54,000","47,00,000","AICTE, UGC, NBA "
+182,Jawaharlal Nehru Technological University,M.Tech,M.Tech Vlsi Design & Embedded System, Kakinada, Andhra Pradesh,3.8,200,500,2025,"₹ 60,000",,,UGC 
+183,GIET University,M.Tech,M.Tech Computer Science And Engineering, Gunupur, Odisha,3.7,201,500,2025,"₹ 1,40,000","4,87,000","19,50,000","AICTE, INC, ICAR, UGC, NBA "
+184,Dayananda Sagar College of Engineering,M.Tech,M.Tech Computer Science And Engineering, Bangalore, Karnataka,4,202,500,2025,"₹ 1,61,720",,"56,00,000","AICTE, UGC, NBA "
+185,Abhilashi University,M.Tech,M.Tech Civil Engineering, Mandi, Himachal Pradesh,4.1,204,500,2025,"₹ 2,07,000","1,79,390","4,00,000","NCTE, AICTE, PCI, CCIM, UGC "
+186,Dharmsinh Desai University,M.Tech,M.Tech Chemical Engineering, Nadiad, Gujarat,3.5,205,500,2025,"₹ 1,10,250","4,00,000","21,00,000","AICTE, UGC, NBA "
+187,GB Pant Delhi Skill and Entrepreneurship University,M.Tech,M.Tech Tool Engineering, New Delhi, Delhi NCR,,206,500,2025,"₹ 2,15,200","2,50,000","11,50,000",UGC 
+188,Institute of Engineering and Technology,M.Tech,M.Tech Artificial Intelligence & Data Science, Lucknow, Uttar Pradesh,3.8,207,500,2025,"₹ 1,41,400","8,20,000","49,00,000","AICTE, UGC "
+189,Odisha University of Technology and Research,M.Tech,M.Tech Computer Science And Engineering, Bhubaneswar, Odisha,3.9,208,500,2025,"₹ 1,62,440","6,70,000","42,00,000","UGC, NBA "
+190,Government College of Engineering and Ceramic Technology,M.Tech,M.Tech Information Technology, Kolkata, West Bengal,4.1,209,500,2025,"₹ 50,401","3,00,000","7,50,000","AICTE, NBA "
+191,Banasthali Vidyapith,M.Tech,M.Tech Biotechnology, Jaipur, Rajasthan,4.2,210,500,2025,"₹ 2,48,000","3,60,000","5,20,000",UGC 
+192,JSS Academy of Technical Education,M.Tech,M.Tech Thermal Power Engineering, Bangalore, Karnataka,3.8,211,500,2025,"₹ 1,50,910","10,00,000","45,00,000","AICTE, NBA "
+193,MKSSS's Cummins College of Engineering for Women,M.Tech,ME Electronics & Telecommunication Engineering, Pune, Maharashtra,4.1,213,500,2025,"₹ 2,39,387","17,00,000","36,00,000","AICTE, NBA "
+194,Gurugram University,M.Tech,M.Tech Computer Science And Engineering, Gurgaon, Haryana,4,214,500,2025,"₹ 1,26,000","3,50,000","18,00,000","AICTE, BCI, UGC "
+195,Arni University,M.Tech,M.Tech Computer Science And Engineering, Kangra, Himachal Pradesh,4.1,215,500,2025,"₹ 80,000",,,"AICTE, PCI, BCI, UGC, AIU "
+196,NorthEastern Hill University,M.Tech,M.Tech Electronics And Communication Engineering, Shillong, Meghalaya,3.7,217,500,2025,"₹ 59,720","4,00,000","7,00,000",UGC 
+197,University College of Engineering,M.Tech,M.Tech Computer Science And Engineering, Vizianagaram, Andhra Pradesh,3.7,219,500,2025,"₹ 1,11,800",,,"AICTE, UGC, MHRD "
+198,Veer Surendra Sai University of Technology,M.Tech,M.Tech Computer Science And Engineering, Burla, Odisha,4,220,500,2025,"₹ 1,01,120","6,17,000","24,00,000","AICTE, COA, UGC "
+199,Institute of Engineering and Management,M.Tech,M.Tech Electronics And Communication Engineering, Kolkata, West Bengal,4,221,500,2025,"₹ 3,02,000","7,50,000","32,00,000","AICTE, NBA "
+200,Faculty of Technology,M.Tech,M.Tech Electronics And Communication Engineering, Nadiad, Gujarat,3.5,223,500,2025,"₹ 1,10,250",,"21,00,000","AICTE, UGC, NBA "
+201,KLE Technological University,M.Tech,M.Tech Design Engineering, Hubli, Karnataka,4.2,224,500,2025,"₹ 1,38,600","5,30,000","46,38,000","AICTE, UGC "
+202,Guru Nanak Dev University,M.Tech,M.Tech Computer Science And Engineering, Amritsar, Punjab,3.8,226,500,2025,"₹ 2,00,120","6,37,000","44,00,000",UGC 
+203,University Institute of Engineering and Technology,M.Tech,M.Tech Mechanical Engineering, Rohtak, Haryana,3.7,227,500,2025,"₹ 1,36,000",,,AICTE 
+204,Kamla Nehru Institute of Technology,M.Tech,M.Tech Civil Engineering, Sultanpur, Uttar Pradesh,4,228,500,2025,"₹ 1,28,000","8,30,000","45,00,000","AICTE, UGC, NBA "
+205,Indian Institute of Food Processing Technology,M.Tech,M.Tech Food Process Engineering, Thanjavur, Tamil Nadu,4.1,229,500,2025,"₹ 2,60,380",,,AICTE 
+206,Central University of Haryana,M.Tech,M.Tech Computer Science And Engineering, Mahendragarh, Haryana,3.7,230,500,2025,"₹ 79,258",,,UGC 
+207,Sri Venkateswara University College of Engineering,M.Tech,M.Tech Computer Science And Engineering, Tirupati, Andhra Pradesh,4,233,500,2025,"₹ 81,980","6,23,000","18,00,000","AICTE, NBA "
+208,DRIEMS University,M.Tech,M.Tech Computer Science And Engineering, Cuttack, Odisha,4,234,500,2025,"₹ 1,50,000","4,00,000","16,00,000","UGC, NBA "
+209,Heritage Institute of Technology,M.Tech,M.Tech Computer Science And Engineering, Kolkata, West Bengal,4.2,235,500,2025,,"4,62,100","1,13,00,000","AICTE, NBA "
+210,Arka Jain University,M.Tech,M.Tech Electric Vehicular Technology, Jamshedpur, Jharkhand,4,236,500,2025,"₹ 2,12,000","3,20,000","23,00,000","AICTE, PCI, INC, BCI, UGC "
+211,Madras Institute of Technology,M.Tech,ME Mechatronics, Chennai, Tamil Nadu,4.1,237,500,2025,"₹ 96,660","6,93,000","36,50,000","AICTE, NBA "
+212,Jalpaiguri Government Engineering College,M.Tech,M.Tech Mechanical Engineering, Jalpaiguri, West Bengal,4,238,500,2025,"₹ 91,810","10,50,000","54,00,000","AICTE, UGC, NBA "
+213,UNIRAJ University of Rajasthan,M.Tech,M.Tech Converging Technology, Jaipur, Rajasthan,3.8,240,500,2025,"₹ 1,95,960",,,UGC 
+214,L.D. College of Engineering,M.Tech,M.Tech Computer Science & Technology, Ahmedabad, Gujarat,4.2,241,500,2025,"₹ 7,750","4,50,000","19,00,000","AICTE, NBA "
+215,Bangalore Institute of Technology,M.Tech,M.Tech Structural Engineering, Bangalore, Karnataka,3.8,242,500,2025,"₹ 1,50,910","10,00,000","58,00,000","AICTE, NBA "
+216,Pimpri Chinchwad College of Engineering,M.Tech,M.Tech Computer Engineering, Pune, Maharashtra,4,243,500,2025,"₹ 3,41,560","9,54,000","14,00,000","AICTE, NBA "
+217,Shri Vishnu Engineering College for Women,M.Tech,M.Tech Computer Science And Engineering, Bhimavaram, Andhra Pradesh,4.3,244,500,2025,"₹ 1,11,600","9,54,000","46,00,000","AICTE, NBA "
+218,Indira Gandhi Institute of Technology,M.Tech,M.Tech Computer Science And Engineering, Dhenkanal, Odisha,4,245,500,2025,"₹ 62,800","3,00,000","11,88,000",AICTE 
+219,Government College of Engineering and Leather Technology,M.Tech,M.Tech Leather Technology, Saltlake, West Bengal,3.7,246,500,2025,"₹ 57,550","5,70,000","14,00,000",AICTE 
+220,Amity University,M.Tech,M.Tech Computer Science And Engineering, Jaipur, Rajasthan,4.1,247,500,2025,"₹ 2,96,000","4,84,000","52,76,000","AICTE, RCI, COA, BCI, UGC "
+221,Pandit Deendayal Energy University,M.Tech,M.Tech Energy System Engineering, Gandhinagar, Gujarat,4.2,248,500,2025,"₹ 3,46,000","7,50,000","42,00,000","UGC, NBA "
+222,Bundelkhand Institute of Engineering & Technology,M.Tech,M.Tech Construction Technology, Jhansi, Uttar Pradesh,3.6,249,500,2025,"₹ 1,31,800","5,35,000","17,00,000","AICTE, UGC, NBA "
+223,Sardar Patel College of Engineering,M.Tech,M.Tech Civil Engineering [Structural Engg], Mumbai, Maharashtra,4,251,500,2025,"₹ 1,43,000","6,00,000","27,00,000","AICTE, UGC, NBA "
+224,Institute of Infrastructure Technology Research and Management,M.Tech,M.Tech Electrical Infrastructure, Ahmedabad, Gujarat,3.9,252,500,2025,"₹ 1,46,000",,,UGC 
+225,CGC University,M.Tech,M.Tech Computer Science And Engineering, Mohali, Punjab,4.1,253,500,2025,"₹ 2,40,000","10,00,000","1,00,00,000",NBA 
+226,Vishnu Institute of Technology,M.Tech,M.Tech Computer Science And Engineering, Bhimavaram, Andhra Pradesh,4.1,256,500,2025,"₹ 1,44,400","4,28,000","44,00,000","AICTE, UGC, NBA "
+227,Kalasalingam Academy of Research and Education,M.Tech,M.Tech Environmental Engineering, Krishnankovil, Tamil Nadu,3.5,257,500,2025,"₹ 1,74,000","4,50,000","50,00,000","BCI, UGC, NBA "
+228,The National Institute of Engineering,M.Tech,M.Tech Computer Applications In Industrial Drives, Mysore, Karnataka,4,258,500,2025,"₹ 2,02,900","10,50,000","70,00,000","AICTE, UGC "
+229,Sir Padampat Singhania University,M.Tech,M.Tech Civil Engineering, Udaipur, Rajasthan,3.8,260,500,2025,"₹ 3,15,000","6,00,000","13,70,000","UGC, AIU "
+230,BMS Institute of Technology and Management,M.Tech,M.Tech Computer Science And Engineering, Bangalore, Karnataka,4,261,500,2025,"₹ 2,50,000","8,07,000","46,40,000","AICTE, UGC, NBA "
+231,Vishwakarma Institute of Information Technology,M.Tech,M.Tech Computer Engineering, Pune, Maharashtra,4,262,500,2025,"₹ 1,86,957","7,70,000","33,00,000",NBA 
+232,Vishwakarma Government Engineering College,M.Tech,ME Chemical Engineering, Ahmedabad, Gujarat,4,264,500,2025,"₹ 15,000",,"23,00,000",AICTE 
+233,RVR and JC College of Engineering,M.Tech,M.Tech Artificial Intelligence & Data Science, Guntur, Andhra Pradesh,4.1,265,500,2025,,"4,70,000","46,38,000",AICTE 
+234,Government College of Engineering & Textile Technology,M.Tech,M.Tech Mechanical Processing of Textiles, Serampore, West Bengal,3.8,267,500,2025,"₹ 40,400","4,20,000","12,50,000",AICTE 
+235,Vivekanand Education Society Institute of Technology,M.Tech,ME Information Technology, Mumbai, Maharashtra,4,269,500,2025,"₹ 1,20,000",,"14,00,000","AICTE, NBA "
+236,Faculty of Technology and Engineering,M.Tech,ME Structural Engineering, Vadodara, Gujarat,4.1,270,500,2025,"₹ 1,86,000","7,00,000","11,00,000",AICTE 
+237,Anil Neerukonda Institute of Technology & Sciences,M.Tech,M.Tech Artificial Intelligence and Machine Learning, Visakhapatnam, Andhra Pradesh,3.9,271,500,2025,"₹ 1,00,000","4,44,000","12,00,000","AICTE, UGC, NBA "
+238,JSS Academy of Technical Education,M.Tech,M.Tech Artificial Intelligence, Noida, Uttar Pradesh,3.7,272,500,2025,"₹ 2,31,700","6,50,000","57,00,000","AICTE, PCI, NBA "
+239,Bidhan Chandra Krishi Viswavidyalaya,M.Tech,M.Tech Farm Machinery And Power Engineering, Mohanpur, West Bengal,4,273,500,2025,"₹ 24,440",,,ICAR 
+240,Ajay Kumar Garg Engineering College,M.Tech,M.Tech Electrical And Electronics Engineering, Ghaziabad, Uttar Pradesh,3.8,274,500,2025,"₹ 2,30,512","5,41,000","30,00,000","AICTE, NBA "
+241,Haldia Institute of Technology,M.Tech,M.Tech Biotechnology, Haldia, West Bengal,3.9,275,500,2025,"₹ 2,23,600","5,00,000","45,00,000","AICTE, UGC, NBA "
+242,Siddaganga Institute of Technology,M.Tech,M.Tech Computer Science And Engineering, Tumkur, Karnataka,3.9,277,500,2025,"₹ 1,15,500","9,00,000","32,88,000","AICTE, NBA "
+243,KJ Somaiya Institute of Engineering and Information Technology,M.Tech,M.E Artificial Intelligence, Mumbai, Maharashtra,4,278,500,2025,"₹ 1,24,000","6,00,000","17,50,000",AICTE 
+244,Swami Vivekanand Institute of Engineering & Technology,M.Tech,M.Tech Civil Engineering, Chandigarh, Chandigarh,4,279,500,2025,"₹ 1,20,000","6,50,000","60,00,000","AICTE, PCI "
+245,Chandubhai S Patel Institute of Technology,M.Tech,M.Tech Electronics And Communication Engineering, Anand, Gujarat,4.1,280,500,2025,"₹ 3,18,000",,,AICTE 
+246,National Institute of Electronics and Information Technology,M.Tech,M.Tech Electronics Design And Technology, Aurangabad, Maharashtra,3.8,281,500,2025,"₹ 2,60,000",,,AICTE 
+247,Rajiv Gandhi Proudyogiki Vishwavidyalaya,M.Tech,M.Tech Industrial Safety, Bhopal, Madhya Pradesh,3.6,251,300,2022,,"3,50,000","18,00,000",
+248,Manipal Institute of Technology Bengaluru,M.Tech,M.Tech Vlsi Design, Bangalore, Karnataka,4.2,284,500,2025,"₹ 4,46,000","10,49,000","57,00,000","AICTE, MHRD "
+249,Techno Main Salt Lake,M.Tech,M.Tech Food Technology, Kolkata, West Bengal,3.9,285,500,2025,"₹ 10,92,000","7,50,000","29,00,000","AICTE, COA, PCI, INC, BCI "
+250,Chennai Institute of Technology,M.Tech,ME Computer Science And Engineering, Chennai, Tamil Nadu,4.2,239,500,2025,"₹ 60,000","7,00,000","60,00,000","AICTE, NBA "
+251,New Prince Shri Bhavani College of Engineering & Technology,M.Tech,ME Applied Electronics, Chennai, Tamil Nadu,3.2,287,500,2025,"₹ 60,000",,,AICTE 
+252,GITAM School of Technology,M.Tech,M.Tech Data Science, Hyderabad, Telangana,4.1,288,500,2025,"₹ 2,56,000","6,86,000","1,40,00,000","AICTE, UGC "
+253,Pune Vidhyarthi Griha's College of Engineering and Technology,M.Tech,ME Electrical power system, Pune, Maharashtra,3.8,291,500,2025,"₹ 2,20,000","4,95,000","30,00,000","AICTE, NBA "
+254,Nitte Meenakshi Institute of Technology   (Deemed to be University),M.Tech,M.Tech Structural Engineering, Bangalore, Karnataka,3.9,292,500,2025,"₹ 2,52,000",,"59,00,000","AICTE, NBA "
+255,University Institute of Technology,M.Tech,ME Electronics And Instrumentation Engineering, Bardhaman, West Bengal,3.3,293,500,2025,"₹ 82,000",,,"AICTE, UGC, NBA "
+256,Vel Tech Rangarajan Dr. Sagunthala R and D Institute of Science and Technology,M.Tech,M.Tech Cyber Security, Chennai, Tamil Nadu,3.7,294,500,2025,"₹ 1,35,000",,"44,00,000","BCI, NBA "
+257,RV University,M.Tech,M.Tech Computer Science And Engineering, Bangalore, Karnataka,3.8,295,500,2025,"₹ 7,82,000",,,"BCI, UGC "
+258,New Horizon College of Engineering,M.Tech,M.Tech Computer Science And Engineering, Bangalore, Karnataka,4.2,298,500,2025,"₹ 2,00,000","8,00,000","29,00,000","AICTE, UGC, NBA "
+259,Ghani Khan Choudhury Institute Of Engineering and Technology,M.Tech,M.Tech Advanced Power Systems, Malda, West Bengal,3.9,301,500,2025,,"2,70,000","6,50,000","AICTE, MHRD "
+260,B. N. M. Institute of Technology,M.Tech,M.Tech Computer Science And Engineering, Bangalore, Karnataka,3.8,303,500,2025,"₹ 2,50,000","6,16,000","34,28,000","AICTE, NBA "
+261,Sir M Visvesvaraya Institute of Technology,M.Tech,M.Tech Computer Integrated Manufacturing, Bangalore, Karnataka,3.8,304,500,2025,"₹ 2,01,940","7,00,000","15,73,000","AICTE, NBA "
+262,Government College of Engineering & Textile Technology,M.Tech,M.Tech Textile Technology, Behrampore, West Bengal,3.8,306,500,2025,"₹ 40,400","4,00,000","12,00,000",AICTE 
+263,KLS Gogte Institute of Technology,M.Tech,M.Tech Machine Design, Belgaum, Karnataka,3.7,307,500,2025,"₹ 1,38,600","6,54,000","51,00,000","AICTE, COA, UGC, NBA "
+264,Dr. Ambedkar Institute of Technology,M.Tech,M.Tech Computer Science And Engineering, Bangalore, Karnataka,3.7,308,500,2025,"₹ 1,99,180",,"19,75,000","AICTE, UGC, NBA "
+265,Ramdeobaba University,M.Tech,M.Tech Computer Science And Engineering, Nagpur, Maharashtra,4.1,309,500,2025,"₹ 3,19,087","6,90,000","51,00,000","AICTE, NBA "
+266,D. Y. Patil College of Engineering,M.Tech,M.Tech Automation & Robotics, Pune, Maharashtra,3.9,312,500,2025,"₹ 1,94,014","8,00,000","52,00,000","AICTE, NBA "
+267,SDM College of Engineering and Technology,M.Tech,M.Tech Computer Aided Design Of Structures, Dharwad, Karnataka,4.1,313,500,2025,"₹ 2,04,200","6,59,000","43,94,000","AICTE, NBA "
+268,Sathyabama Institute of Science and Technology,M.Tech,ME Structural Engineering, Chennai, Tamil Nadu,3.9,314,500,2025,"₹ 2,40,000","5,57,000","41,20,000","DCI, AICTE, COA, PCI, INC "
+269,Government College of Engineering,M.Tech,ME Structural Engineering, Aurangabad, Maharashtra,3.9,315,500,2025,"₹ 1,61,934","5,80,000","11,50,000",AICTE 
+270,National Institute of Food Technology Entrepreneurship and Management,M.Tech,M.Tech Food Safety and Quality Management, Sonepat, Haryana,4,316,500,2025,"₹ 4,06,670",,"18,00,000","AICTE, UGC "
+271,M.S. Ramaiah University of Applied Sciences,M.Tech,M.Tech VLSI and Nanotechnology, Bangalore, Karnataka,4,317,500,2025,"₹ 4,26,000","7,00,000","52,00,000","DCI, AICTE, PCI, BCI, UGC "
+272,KIET Deemed To Be University,M.Tech,M.Tech Computer Science And Engineering, Ghaziabad, Uttar Pradesh,4.1,318,500,2025,"₹ 3,65,000","5,44,000","60,00,000","AICTE, PCI, UGC, NBA "
+273,Thakur College of Engineering and Technology,M.Tech,ME Computer Engineering, Mumbai, Maharashtra,4,319,500,2025,"₹ 1,00,000","7,65,000","21,00,000","AICTE, NBA "
+274,Vidyavardhaka College of Engineering,M.Tech,M.Tech Electronics And Communication Engineering, Mysore, Karnataka,4.1,320,500,2025,"₹ 1,75,860",,"41,30,000","AICTE, UGC, NBA "
+275,CMR Institute of Technology,M.Tech,M.Tech Computer Science And Engineering, Bangalore, Karnataka,4,321,500,2025,"₹ 1,27,800","6,99,000","44,10,000","AICTE, NBA "
+276,DY Patil International University,M.Tech,M.Tech Quantum Computing, Pune, Maharashtra,4.1,322,500,2025,"₹ 2,40,000","7,00,000","33,00,000","AICTE, UGC, AIU "
+277,Puducherry Technological University,M.Tech,M.Tech Data Science, Pondicherry, Puducherry,3.8,323,500,2025,"₹ 98,600","4,00,000","10,00,000",AICTE 
+278,International Institute of Information Technology,M.Tech,M.Tech Computer Engineering, Pune, Maharashtra,3.8,324,500,2025,"₹ 2,00,000",,"28,00,000","AICTE, UGC, NBA "
+279,Government Sri Krishnarajendra Silver Jubilee Technological Institute,M.Tech,M.Tech Textile Technology, Bangalore, Karnataka,3.6,325,500,2025,"₹ 1,50,910",,,"AICTE, NBA "
+280,REVA University,M.Tech,M.Tech Cyber Security, Bangalore, Karnataka,4.2,326,500,2025,"₹ 1,82,000",,"45,50,000","AICTE, COA, BCI, UGC "
+281,G L Bajaj Institute of Technology and Management,M.Tech,M.Tech Computer Science And Engineering, Greater Noida, Uttar Pradesh,3.9,327,500,2025,"₹ 2,10,900","7,35,000","58,00,000","AICTE, BCI, NBA "
+282,Government College of Engineering,M.Tech,M.Tech Electrical Power Engineering, Amravati, Maharashtra,3.7,328,500,2025,"₹ 1,72,661","5,65,000","26,50,000","AICTE, NBA "
+283,Acharya Institute of Technology,M.Tech,M.Tech Computer Science And Engineering, Bangalore, Karnataka,4.1,329,500,2025,"₹ 1,38,600","6,00,000","65,00,000","AICTE, NBA "
+284,Government College of Engineering,M.Tech,M.Tech Design Engineering, Satara, Maharashtra,3.9,330,500,2025,"₹ 1,70,483","5,61,000","18,00,000","AICTE, NBA "
+285,Malnad College of Engineering,M.Tech,M.Tech Artificial Intelligence & Data Science, Hassan, Karnataka,4,331,500,2025,"₹ 1,38,600",,"12,50,000","AICTE, UGC, NBA "
+286,Sahyadri College of Engineering & Management (SCEM),M.Tech,M.Tech Computer Science And Engineering, Mangalore, Karnataka,4.1,332,500,2025,"₹ 1,38,600","4,00,000","40,00,000","AICTE, NBA "
+287,BGS & SJB Group of Institutions,M.Tech,M.Tech Structural Engineering, Bangalore, Karnataka,3.8,335,500,2025,"₹ 1,38,600","5,52,000","27,00,000","AICTE, NBA "
+288,Woxsen University,M.Tech,M.Tech Artificial Intelligence and Machine Learning, Hyderabad, Telangana,4.2,336,500,2025,"₹ 9,80,000","9,90,000","24,00,000","COA, BCI, AACSB, AMBA "
+289,Sri Siddhartha Institute of Technology,M.Tech,M.Tech Computer Science And Engineering, Tumkur, Karnataka,4,337,500,2025,"₹ 80,000",,"12,00,000","AICTE, NBA "
+290,Vidyalankar Institute of Technology,M.Tech,ME Computer Engineering, Mumbai, Maharashtra,4.2,338,500,2025,"₹ 98,000","12,96,000","37,50,000",AICTE 
+291,KLE Dr. M.S.Sheshgiri College of Engineering & Technology,M.Tech,M.Tech Structural Engineering, Belgaum, Karnataka,3.9,339,500,2025,"₹ 1,93,570",,"34,00,000","AICTE, NBA "
+292,University of Lucknow,M.Tech,M.Tech Artificial Intelligence, Lucknow, Uttar Pradesh,3.8,340,500,2025,"₹ 2,46,050","8,25,000","26,00,000","AICTE, UGC "
+293,JSPM'S Rajarshi Shahu College of Engineering   Tathawade,M.Tech,M.Tech Computer Engineering, Pune, Maharashtra,3.9,341,500,2025,"₹ 2,27,218",,"30,00,000","AICTE, NBA "
+294,PES College of Engineering,M.Tech,M.Tech Computer Aided Design, Mandya, Karnataka,3.9,343,500,2025,"₹ 1,80,030","5,30,000","14,50,000","AICTE, NBA "
+295,Global Academy of Technology,M.Tech,M.Tech Computer Science And Engineering, Bangalore, Karnataka,3.9,347,500,2025,"₹ 1,38,600","5,17,000","22,00,000","AICTE, NBA "
+296,Sanskriti University,M.Tech,M.Tech Computer Science And Engineering, Mathura, Uttar Pradesh,3.8,348,500,2025,"₹ 1,30,000","6,20,000","1,40,00,000","NCTE, RCI, PCI, BCI, ICAR "
+297,MIT Academy of Engineering,M.Tech,M.Tech Mechanical Engineering, Pune, Maharashtra,3.8,349,500,2025,"₹ 1,92,590","6,10,000","28,00,000","AICTE, UGC, NBA "
+298,MVJ College of Engineering,M.Tech,M.Tech Electronics And Communication Engineering, Bangalore, Karnataka,3.8,350,500,2025,"₹ 2,12,000",,"27,70,000","AICTE, UGC, NBA "
+299,GSSS Institute of Engineering and Technology for Women,M.Tech,M.Tech Computer Science And Engineering, Mysore, Karnataka,4.3,352,500,2025,"₹ 2,15,220","6,80,000","34,00,000","AICTE, NBA "
+300,University BDT College of Engineering,M.Tech,M.Tech Power Systems And Power Electronics, Davanagere, Karnataka,3.5,353,500,2025,"₹ 1,60,220",,,"AICTE, NBA "
+301,AISSMS College of Engineering,M.Tech,ME Artificial Intelligence and Data Science, Pune, Maharashtra,4.1,355,500,2025,"₹ 2,21,270","4,50,000","45,00,000",AICTE 
+302,Sri Manakula Vinayagar Engineering College,M.Tech,M.Tech Electronics And Communication Engineering, Pondicherry, Puducherry,3.9,356,500,2025,"₹ 1,77,800",,"10,00,000","AICTE, NBA "
+303,Sapthagiri NPS University,M.Tech,M.Tech Computer Science And Engineering, Bangalore, Karnataka,3.6,357,500,2025,"₹ 2,00,000","6,00,000","35,00,000","AICTE, UGC, NBA "
+304,Cambridge Institute of Technology,M.Tech,M.Tech Computer Science And Engineering, Bangalore, Karnataka,4.1,358,500,2025,"₹ 1,38,600","12,00,000","53,20,000","AICTE, UGC, NBA "
+305,Fr. Conceicao Rodrigues College of Engineering,M.Tech,M.Tech Computer Engineering, Mumbai, Maharashtra,4,359,500,2025,"₹ 2,45,600","6,30,000","22,00,000","AICTE, NBA "
+306,Basaveshwar Engineering College,M.Tech,M.Tech Geotechnical Engineering, Bagalkot, Karnataka,3.8,360,500,2025,"₹ 1,50,910",,,"AICTE, NBA "
+307,Dr. D. Y. Patil Institute of Technology   Pimpri,M.Tech,ME Computer Engineering, Pune, Maharashtra,3.9,362,500,2025,"₹ 2,00,000",,"4,78,000",AICTE 
+308,Bhilai Institute of Technology,M.Tech,M.Tech Data Science, Durg, Chhattisgarh,3.6,363,500,2025,"₹ 1,43,250",,,"AICTE, NBA "
+309,Bapuji Institute of Engineering and Technology,M.Tech,M.Tech Sensor Technology and Internet of Things, Davanagere, Karnataka,3.8,365,500,2025,"₹ 1,70,000","4,97,000","30,00,000","AICTE, UGC, NBA "
+310,Government College of Engineering,M.Tech,M.Tech, Nagpur, Maharashtra,3.8,366,500,2025,"₹ 1,97,967","5,77,000","9,50,000",AICTE 
+311,Jawaharlal Nehru National College of Engineering,M.Tech,M.Tech Computer Science And Engineering, Shimoga, Karnataka,3.7,367,500,2025,"₹ 2,36,810",,"24,00,000","AICTE, NBA "
+312,Dayananda Sagar University,M.Tech,M.Tech Embedded Systems, Bangalore, Karnataka,4.1,368,500,2025,"₹ 3,24,000","5,52,000","35,00,000","AICTE, PCI, INC, BCI, UGC "
+313,Visvesvaraya Technological University,M.Tech,M.Tech Artificial Intelligence & Data Science, Belgaum, Karnataka,3.7,371,500,2025,"₹ 1,76,520",,"5,40,000","AICTE, UGC "
+314,AISSMS Institute of Information Technology,M.Tech,M.Tech Electrical Engineering, Pune, Maharashtra,4,372,500,2025,"₹ 1,32,000","4,50,000","14,00,000",AICTE 
+315,Manakula Vinayagar Institute of Technology,M.Tech,M.Tech Computer Science And Engineering, Pondicherry, Puducherry,3.7,373,500,2025,"₹ 90,000","3,00,000","7,00,000","AICTE, NBA "
+316,Mangalore Institute of Technology and Engineering,M.Tech,M.Tech Computer Science And Engineering, Mangalore, Karnataka,4.1,375,500,2025,"₹ 1,50,910",,"50,00,000",AICTE 
+317,Laxminarayan Institute of Technology,M.Tech,M.Tech Chemical Engineering, Nagpur, Maharashtra,3.8,377,500,2025,"₹ 3,00,000","3,50,000","8,00,000","AICTE, UGC, NBA "
+318,Gurukul Vidyapeeth,M.Tech,M.Tech Mechanical Engineering, Chandigarh, Chandigarh,1.8,,,,"₹ 1,59,800",,,AICTE 
+319,PDA College of Engineering,M.Tech,M.Tech Production Engineering, Gulbarga, Karnataka,3.7,379,500,2025,"₹ 1,38,600",,"6,00,000","AICTE, UGC, NBA "
